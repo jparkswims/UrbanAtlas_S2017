@@ -1,0 +1,8490 @@
+PARIS
+which 9
+great 3
+new 2
+good 2
+sufficient 2
+literary 2
+aristocratic 2
+more 1
+mere 1
+open 1
+
+LONDON
+which 7
+grand 2
+finest 2
+great 2
+literary 2
+medical 2
+same 2
+substantial 1
+large 1
+fine 1
+
+BRITON
+
+NEW YORK
+its 96
+great 58
+other 41
+fashionable 28
+many 21
+old 21
+new 21
+large 19
+more 18
+high 15
+
+METROPOLIS
+its 7
+great 6
+other 4
+large 4
+greater 3
+our 2
+high 2
+profitable 2
+wretched 2
+plea- 1
+
+JERSEY CITY
+full 4
+great 3
+other 3
+few 2
+which 2
+my 2
+grand 1
+central 1
+proper 1
+various 1
+
+CHATHAM
+full 11
+low 3
+second 3
+greater 3
+front 2
+great 2
+young 2
+small 2
+worthy 2
+old 2
+
+CENTRAL PARK
+full 13
+59th 6
+grand 5
+great 3
+lower 3
+other 3
+fifth 2
+dark 2
+western 2
+larger 2
+
+YORK CITY
+general 2
+rapid 1
+
+THE CITY —
+rapid 4
+general 1
+old 1
+first 1
+private 1
+high 1
+enormous 1
+holiday 1
+novel 1
+busy 1
+
+CITY —
+rapid 4
+new 2
+general 1
+old 1
+first 1
+private 1
+high 1
+enormous 1
+floating 1
+foreign 1
+
+THE CITY 5I
+new 1
+
+ELLIS' ISLANDS
+inner 4
+outer 2
+lower 2
+
+THE CITY GOVERNMENT
+municipal 2
+departments— 2
+magnificent 1
+admira- 1
+whole 1
+especial 1
+
+THE VARIOUS
+municipal 2
+departments— 2
+great 2
+grand 2
+leading 2
+to- 1
+daily 1
+reid— 1
+day— 1
+
+THE FIFTH AVENUE
+fashionable 6
+grand 3
+sudden 3
+fifth 2
+shoddy 2
+extravagant 2
+roman 2
+other 2
+suspicious 2
+half 2
+
+BUSINESS
+great 5
+grand 4
+new 3
+enormous 3
+hard 2
+summons 2
+noble 2
+many 2
+long 2
+good 2
+
+NEW YORK SOCIETY
+fashionable 6
+shoddy 2
+sudden 2
+extravagant 2
+aristocratic 1
+laces^fashionable 1
+old 1
+
+BOHEMIA-A
+great 1
+-street 1
+young 1
+south 1
+
+THE UNITED STATES SUB-TREASURY
+great 2
+noble 2
+many 2
+tweed 1
+east 1
+old 1
+first 1
+
+NEW YORK'S
+great 2
+festal 2
+new 2
+first 2
+only 2
+main 2
+day— 1
+high 1
+enormous 1
+handsome 1
+
+THE CITY IS
+old 2
+regular 2
+municipal 2
+singular 2
+drunk 2
+disorderly 2
+fruitless 2
+new 2
+missing 2
+political 1
+
+LUDLOW
+full 1
+narrow 1
+gloomy 1
+unfortunate 1
+such 1
+unhappy 1
+high 1
+depu- 1
+many 1
+extortionate 1
+
+THE CITY
+great 34
+other 34
+many 28
+old 23
+large 20
+new 18
+my 18
+lower 17
+various 14
+few 14
+
+RIVERSIDE PARK
+fine 2
+delightful 2
+northwestern 1
+
+THE PARK COMMISSION
+grand 1
+lower 1
+
+PARISH-ITS
+fine 1
+
+NEW YORK—
+new 2
+first 1
+fashionable 1
+deserving 1
+wretched 1
+
+WICKEDEST 
+
+
+
+WOMAN
+
+ERIE
+fashionable 6
+grand 3
+lower 3
+full 2
+aristocratic 2
+shrewd 2
+splendid 2
+notable 2
+bowery 2
+gorgeous 2
+
+MR
+great 2
+festal 2
+new 2
+first 2
+retail 1
+full 1
+day— 1
+private 1
+poor 1
+friendless 1
+
+THE CITY-THE
+splendid 1
+
+NEW YORK-NUMBER
+apartments— 1
+
+NEW YORK— THE
+new 2
+deserving 1
+wretched 1
+
+NEW YORK FIREMAN—
+fund"— 1
+heroic 1
+
+BY-GONE
+notable 2
+bowery 2
+gorgeous 2
+german 2
+—a 1
+mysterious 1
+
+ST
+full 21
+great 20
+new 17
+grand 15
+fashionable 15
+first 11
+enormous 8
+rapid 7
+old 6
+lower 5
+
+WINDSOR
+great 2
+grand 2
+other 2
+suspicious 2
+shorter 1
+most 1
+east 1
+48th 1
+massive 1
+red 1
+
+FURNISHING A
+grand 2
+other 2
+suspicious 2
+great 1
+
+NEW YORK THE
+worthless 1
+characters— 1
+
+THE PARK— THE
+grand 1
+lower 1
+worthless 1
+characters— 1
+
+CHAPTER L
+great 2
+grand 1
+other 1
+suspicious 1
+worthless 1
+characters— 1
+foreign 1
+average 1
+new 1
+first 1
+
+AMERICA
+my 56
+american 52
+its 39
+old 27
+other 26
+great 23
+thy 16
+many 14
+new 14
+own 13
+
+MANHATTAN ISLAND
+few 2
+main 1
+central 1
+complex 1
+chief 1
+peculiar 1
+impossible 1
+fine 1
+west 1
+valuable 1
+
+WEST CHESTER COUNTY
+main 1
+
+MANHATTAN
+my 19
+her 7
+old 6
+western 5
+new 5
+bright 4
+natural 3
+black 3
+yellow 3
+delicate 3
+
+WASHINGTON HEIGHTS
+few 2
+northern 1
+bold 1
+beautiful 1
+fine 1
+west 1
+valuable 1
+upper 1
+hand- 1
+reser- 1
+
+NEW JERSEY
+several 4
+large 3
+constant 2
+great 2
+old 2
+main 1
+numerous 1
+main- 1
+full 1
+broad 1
+
+MANHATTANVILLE
+fifth 1
+west 1
+rural 1
+miniature 1
+
+HOUSTON
+which 3
+west 1
+grand 1
+fearful 1
+sure 1
+flickering 1
+ruddy 1
+red 1
+singular 1
+looking 1
+
+ITALY
+thoughtful 3
+other 3
+high 2
+clearer 1
+beautiful 1
+lofty 1
+italian 1
+superb 1
+corinthian 1
+purest 1
+
+THIRD
+third 2
+great 2
+30th 2
+14th 2
+9th 2
+straight 2
+entire 2
+northern 1
+hot 1
+debilitating 1
+
+EIGHTH
+59th 6
+third 3
+other 2
+loth 2
+western 2
+eighth 2
+iioth 2
+red 2
+handsome 2
+hot 1
+
+NEW YORK CITY
+old 1
+past 1
+american 1
+different 1
+
+CITY
+its 79
+great 78
+other 50
+many 31
+large 29
+various 27
+lower 21
+old 20
+public 20
+best 20
+
+EDINBURGH
+high 2
+its 1
+original 1
+new 1
+full 1
+southern 1
+finest 1
+random 1
+real 1
+unexplored 1
+
+SCOTLAND
+high 2
+its 1
+original 1
+new 1
+full 1
+placid 1
+long 1
+regular 1
+exten- 1
+
+THE WESTERN UNION TELEGRAPH COMPANY
+high 1
+
+BROAD
+lower 11
+high 10
+opposite 9
+handsome 9
+old 7
+magnificent 7
+several 6
+fine 6
+east 6
+great 6
+
+METROPOHTAN BANK
+
+PINE
+high 2
+few 1
+imme- 1
+broad 1
+white 1
+doric 1
+noble 1
+higher 1
+northern 1
+splendid 1
+
+APPLETON
+stately 2
+
+MULBERRY
+high 1
+numerous 1
+small 1
+attractive 1
+singular 1
+looking 1
+flashy 1
+huge 1
+colored 1
+
+AND UNION SQUARE
+fourteenth 1
+late 1
+domestic 1
+high 1
+
+STEVENS APARTMENT HOUSE
+seventh 2
+extraordinary 1
+
+DELAWARE
+eastern 2
+vast 2
+huge 2
+great 2
+large 2
+black 2
+high 2
+inter- 1
+rapid 1
+his 1
+
+CORTLANDT
+inter- 1
+rapid 1
+
+NEW CHURCH
+less 1
+build- 1
+small 1
+large 1
+next 1
+59th 1
+loth 1
+55th 1
+
+NEW CHAMBERS
+less 1
+build- 1
+small 1
+large 1
+
+NEW BOWERY
+less 1
+build- 1
+small 1
+large 1
+
+NEW VORKR—
+new 2
+floating 1
+foreign 1
+
+THE UNITED STATES
+other 6
+certain 3
+first 3
+east 2
+old 2
+various 2
+tenth 1
+skilled 1
+ter 1
+more 1
+
+"
+other 41
+great 40
+her 30
+full 29
+fashionable 25
+old 23
+my 22
+more 22
+many 21
+high 19
+
+EIGHTIETH
+largest 1
+eightieth 1
+
+SEVENTH
+seventh 5
+thirteenth 1
+short 1
+safe 1
+ooo 1
+full 1
+during- 1
+many 1
+other 1
+enormous 1
+
+TENTH
+tenth 4
+old 2
+high 1
+last 1
+thirteenth 1
+large 1
+sewino- 1
+73d 1
+good 1
+third 1
+
+BROOKLYN
+great 7
+my 5
+many 4
+several 3
+large 3
+thy 3
+own 2
+vast 2
+other 2
+few 2
+
+LONG ISLAND
+several 2
+large 2
+old 2
+great 2
+main 1
+numerous 1
+constant 1
+main- 1
+rapid 1
+present 1
+
+STATEN ISLAND
+bold 3
+little 2
+white 2
+picturesque 2
+main- 1
+placid 1
+bright 1
+green 1
+armed 1
+upper 1
+
+CONNECTICUT
+small 2
+main- 1
+rapid 1
+present 1
+own 1
+elevated 1
+entire 1
+suburban 1
+distant 1
+few 1
+
+ISLAND
+other 6
+old 5
+present 4
+little 4
+bold 4
+upper 4
+great 4
+few 3
+numerous 3
+picturesque 3
+
+DURINOF
+eiofht 1
+their 1
+fullest 1
+
+WESTERN CITY
+western 1
+
+CONEY ISLAND
+other 3
+distant 2
+numerous 2
+lovely 2
+whole 1
+pretty 1
+immense 1
+visible 1
+alive 1
+white 1
+
+COUNTY
+which 3
+main 1
+full 1
+other 1
+great 1
+american 1
+59th 1
+sepa- 1
+wide 1
+open 1
+
+THE SOUTHERN STATES
+yellow 1
+heavy 1
+vast 1
+equal 1
+invite 1
+candid 1
+copious 1
+temperate 1
+chaste 1
+magnetic 1
+
+RUSSIA
+thoughtful 3
+other 3
+recent 1
+characteristic 1
+generous 1
+attached 1
+my 1
+own 1
+happy 1
+
+TURKEY
+his 37
+my 9
+own 4
+least 3
+other 3
+pale 3
+red 2
+young 2
+fiery 2
+present 2
+
+CHICAGO
+my 3
+full 3
+dead 2
+fuller 2
+western 1
+latter 1
+brilliant 1
+other 1
+main 1
+cheap 1
+
+HEATHEN
+other 2
+christian 1
+pleasant 1
+social 1
+individual 1
+worth 1
+
+NEW 
+YORK
+great 7
+new 4
+other 4
+next 3
+careful 2
+possible 2
+lower 2
+first 2
+hard 2
+large 2
+
+UNITED 
+STATES
+largest 2
+shorter 1
+14th 1
+great 1
+15th 1
+famous 1
+daring 1
+resolute 1
+
+GREAT BRITAIN
+bad 1
+wretched 1
+stringent 1
+their 1
+own 1
+vast 1
+assist- 1
+small 1
+
+STATES
+my 32
+other 16
+great 14
+old 11
+large 11
+good 10
+new 10
+high 9
+many 8
+more 7
+
+JERSEY
+great 6
+several 4
+other 4
+distant 3
+full 2
+western 2
+opposite 2
+various 2
+broad 2
+high 2
+
+EX-
+ex- 4
+own 3
+that 3
+unex- 3
+great 2
+many 2
+northern 2
+poor 2
+pleasantest 1
+larger 1
+
+FIFTH
+fifth 19
+fashionable 9
+59th 6
+new 4
+small 4
+large 4
+east 4
+seventh 3
+whole 3
+entire 3
+
+NINTH
+my 4
+ninth 4
+third 2
+30th 2
+tenth 2
+second 1
+foregoing 1
+situ- 1
+natural 1
+large 1
+
+EL DORADO
+large 2
+cogent 1
+my 1
+such 1
+veritable 1
+succeed- 1
+
+^40,000
+identical 1
+italian 1
+single 1
+
+1866
+nth 1
+disposed 1
+whole 1
+good 1
+prosperous 1
+handsome 1
+only 1
+
+^100,000
+open 1
+more 1
+shrewd 1
+old 1
+whole 1
+late 1
+wise 1
+siderable 1
+daily 1
+rious 1
+
+BOSTON
+my 6
+american 4
+other 3
+swift 3
+united 3
+full 3
+young 2
+rude 2
+whatever 2
+countless 2
+
+PENNSYLVANIA
+thy 10
+great 3
+other 2
+unknown 2
+blue 2
+many 2
+whole 1
+greater 1
+my 1
+more 1
+
+PALISADES
+western 2
+natural 1
+peerless 1
+panoramic 1
+desirable 1
+
+BOULEVARDS
+western 2
+natural 1
+peerless 1
+panoramic 1
+desirable 1
+
+MORNINGSIDE PARK
+northwestern 1
+
+PEARL
+dutch 2
+social 2
+long 2
+early 1
+east 1
+active 1
+old 1
+west 1
+most 1
+fine 1
+
+FULTON
+great 2
+dutch 1
+religious 1
+same 1
+beautiful 1
+white 1
+sumptuous 1
+entire 1
+more 1
+east 1
+
+NASSAU
+noble 2
+great 2
+dutch 1
+religious 1
+parallel 1
+immedi- 1
+good 1
+tall 1
+narrow 1
+corporate 1
+
+CANAL
+lower 2
+high 2
+small 2
+regular 1
+noticeable 1
+higher 1
+numerous 1
+attractive 1
+inter- 1
+rapid 1
+
+HARLEM
+east 3
+unbroken 3
+59th 3
+better 3
+northern 3
+great 2
+sudden 2
+many 2
+other 2
+few 2
+
+STUYVESANT SQUARE
+many 1
+first 1
+
+WASHINGTON
+first 8
+old 6
+my 6
+dead 5
+beautiful 4
+fine 3
+red 3
+fashionable 3
+white 3
+solemn 3
+
+FOURTH
+which 3
+14th 3
+17th 3
+fashionable 2
+other 2
+grand 2
+9th 2
+34th 2
+next 2
+fourth 2
+
+HEBREW
+old 4
+vast 3
+better 3
+venerable 2
+strong 2
+long 2
+ancient 2
+high 2
+silent 2
+great 2
+
+FRANCE
+other 5
+great 3
+thoughtful 3
+my 3
+grand 2
+finest 2
+swiss 2
+many 2
+own 2
+good 2
+
+RIVERSIDE
+fine 4
+finest 2
+delightful 2
+grand 1
+gay 1
+beautiful 1
+broad 1
+open 1
+interminable 1
+brown 1
+
+NAPLES
+finest 2
+best 2
+fine 1
+grand 1
+gay 1
+beautiful 1
+following 1
+several 1
+esteemed 1
+numerous 1
+
+ROME
+countless 3
+its 3
+finest 2
+new 2
+own 2
+past 2
+old 2
+small 2
+fine 1
+grand 1
+
+BERLIN
+which 3
+fine 2
+finest 2
+grand 1
+gay 1
+beautiful 1
+more 1
+mere 1
+open 1
+immediate 1
+
+BOULEVARD
+western 2
+natural 1
+peerless 1
+panoramic 1
+desirable 1
+busy 1
+picturesque 1
+east 1
+beautiful 1
+
+FORT WASHINGTON
+busy 1
+picturesque 1
+east 1
+beautiful 1
+
+SEINE
+which 2
+more 1
+mere 1
+open 1
+immediate 1
+long 1
+great 1
+venetian 1
+greek 1
+
+SPREE
+which 2
+more 1
+mere 1
+open 1
+immediate 1
+
+PORT MORRIS
+long 1
+foreign 1
+
+STATEN
+bold 4
+little 2
+white 2
+picturesque 2
+main- 1
+natural 1
+safest 1
+snug 1
+proper 1
+placid 1
+
+LONG ISLANDS
+natural 1
+safest 1
+snug 1
+
+CASTLE WILLIAM
+half 1
+round 1
+formidable 1
+
+FORT GIBSON
+armed 1
+heavy 1
+
+FORT WOOD
+larger 1
+
+SCRIBITER S MAGAZINE
+central 1
+complex 1
+chief 1
+
+HOBOKEN
+other 2
+my 2
+various 1
+great 1
+european 1
+up 1
+neighbor- 1
+busy 1
+lo 1
+hasty 1
+
+BAY RIDGE
+proper 1
+pretty 1
+distant 1
+
+UPPER
+central 1
+detached 1
+present 1
+small 1
+gigantic 1
+free 1
+narrow 1
+provincial 1
+many 1
+fashionable 1
+
+PHILADELPHIA
+my 6
+american 4
+other 3
+united 3
+full 3
+slow 2
+young 2
+rude 2
+whatever 2
+dead 2
+
+FORT HAMILTON
+adjacent 2
+large 1
+casemated 1
+old 1
+fashioned 1
+very 1
+few 1
+distant 1
+heavy 1
+concentrated 1
+
+FORT RICHMOND
+worth 1
+bold 1
+national 1
+tall 1
+
+FORT TOMPKINS
+adjacent 2
+worth 1
+heavy 1
+concentrated 1
+opposite 1
+old 1
+
+FORT WADSWORTH
+second 1
+southern 1
+main 1
+left 1
+earthen 1
+other 1
+west 1
+infected 1
+lower 1
+same 1
+
+NORTH AND SOUTH
+o'er 2
+that 2
+other 1
+south 1
+fearless 1
+myriad 1
+endless 1
+grassy 1
+little 1
+wild 1
+
+RARITAN
+graceful 1
+small 1
+
+QUARANTINE
+interesting 1
+famous 1
+upper 1
+lower 1
+several 1
+outer 1
+substantial 1
+
+FORT WADS-
+upper 1
+worth 1
+little 1
+half 1
+
+DRS
+senior 1
+
+WEST INDIES
+other 2
+west 1
+infected 1
+lower 1
+same 1
+various 1
+foreign 1
+domestic 1
+
+WEST BANK
+other 1
+west 1
+infected 1
+lower 1
+same 1
+
+ILLINOIS
+my 7
+great 4
+old 2
+long 2
+blue 2
+thy 2
+foreign 2
+even 2
+grim 2
+wild 2
+
+CAPE
+foreign 1
+domestic 1
+sick 1
+subject 1
+requisite 1
+proper 1
+infectious 1
+
+SAVANNAH
+my 3
+past 1
+vigilant 1
+other 1
+yellow 1
+prevalent 1
+dear 1
+own 1
+slow 1
+sluggish 1
+
+ROCKAWAY BEACH
+their 1
+white 1
+distant 1
+other 1
+formidable 1
+
+A VISIT
+blue 1
+.to 1
+pleasant 1
+profitable 1
+interesting- 1
+outer 1
+
+SHINING^
+shining^ 1
+
+SANDY
+bold 2
+tall 2
+unfinished 2
+white 2
+short 1
+starboard 1
+low 1
+sandy 1
+eastern 1
+broad 1
+
+SQUAN
+lower 1
+recent 1
+
+BARNEGAT
+lower 1
+recent 1
+
+UNITED STATES
+other 8
+first 4
+same 4
+certain 3
+large 2
+various 2
+remarkable 2
+tenth 1
+skilled 1
+ter 1
+
+YQUNG
+
+NEW YORK CONEY ISLAND
+great 1
+famous 1
+
+SYRENS
+thick 1
+terrific 1
+east 1
+head- 1
+
+BEAVER
+principal 1
+
+RED 
+BANK
+mere 1
+high 1
+rich 1
+
+NAVISINK
+other 1
+
+BEACON HILL
+
+HIGHLANDS
+white 2
+brush- 1
+frail 1
+full 1
+main 1
+picturesque 1
+bold 1
+interesting 1
+pleasant 1
+little 1
+
+THE CITY OF NEW YORK
+various 1
+military 1
+omnibus 1
+young 1
+daily 1
+better 1
+many 1
+lower 1
+
+THE CITY GOVERN-
+
+CHAMBERLAIN
+
+COMPTROLLER
+fiscal 1
+important 1
+political 1
+lucrative 1
+polidcal 1
+
+THE CITY GOV-
+its 1
+
+ALDERMEN
+various 1
+upper 1
+24th 1
+more 1
+superior 1
+super- 1
+all 1
+old 1
+
+CITY JUDGE
+
+THE CITY HALL
+great 3
+present 2
+southern 2
+open 2
+other 2
+few 2
+special 2
+triangular 2
+various 1
+official 1
+
+AMERI-
+modern 1
+success- 1
+large 1
+enough 1
+wonderful 1
+after- 1
+great 1
+
+IRELAND
+modern 1
+success- 1
+large 1
+enough 1
+oldest 1
+local 1
+religious 1
+own 1
+heavy 1
+plank'd 1
+
+NEW
+its 117
+great 71
+other 52
+new 35
+fashionable 29
+many 24
+old 23
+large 23
+more 20
+good 18
+
+THE CITY COM-
+various 1
+lucrative 1
+
+NEW AMSTERDAM
+their 2
+dutch 1
+old 1
+own 1
+venerable 1
+palmy 1
+little 1
+less 1
+stately 1
+armorial 1
+
+LIVERPOOL
+great 2
+future 1
+present 1
+substantial 1
+handsome 1
+new 1
+other 1
+
+WESTERN UNION TELEGRAPH COMPANY
+high 2
+tall 1
+lofty 1
+bewildering 1
+look- 1
+gigantic 1
+
+ST. PAUL'S
+many 1
+active 1
+entire 1
+venerable 1
+few 1
+lutionary 1
+vast 1
+following 1
+other 1
+prominent 1
+
+THE WESTERN UNION TELEGRAPH
+high 1
+noble 1
+
+ITS
+its 475
+old 28
+other 28
+great 25
+many 21
+high 18
+good 18
+new 17
+various 15
+large 14
+
+WESTERN 
+UNION TELEGRAPH BUILDING
+many 1
+alone 1
+re- 1
+western 1
+occasional 1
+casual 1
+stony 1
+
+SPRING
+comfortable 2
+higher 1
+famous 1
+west 1
+37th 1
+many 1
+pastoral 1
+sixty 1
+enormous 1
+new 1
+
+THE METROPOHTAN HOTEL
+east 1
+handsome 1
+im- 1
+
+MANSARD
+west 1
+immense 1
+red 1
+light 1
+high 1
+prompt 1
+small 1
+several 1
+extra 1
+
+TO UNION SQUARE
+wholesale 1
+dry 1
+fancy 1
+distant 1
+several 1
+leading 1
+close 1
+late 1
+
+23D
+my 7
+only 2
+natural 2
+59th 2
+24th 2
+east 2
+entire 2
+26th 2
+second 1
+foregoing 1
+
+ALBEMARLE
+24th 1
+occu- 1
+opposite 1
+elegant 1
+superb 1
+private 1
+other 1
+prominent 1
+
+SEMINOLE
+opposite 1
+handsome 1
+gallant 1
+mexican 1
+
+NEW YORK CLUB HOUSE
+tasteful 1
+red 1
+
+BROADWAY THEATRE
+opposite 1
+west 1
+
+NEW THEATRE
+southeast 1
+30th 1
+beautiful 1
+
+THE 
+UNION DIME SAVINGS BANK
+superb 1
+marble 1
+
+POVERTY
+
+FULTON FERRY
+velt 1
+
+SLAWSON
+front 1
+correct 1
+
+BLEECKER
+fashionable 2
+next 1
+few 1
+useful 1
+hearted 1
+great 1
+fourth 1
+similar 1
+single 1
+handed 1
+
+^6
+more 2
+other 2
+nice 1
+white 1
+worth 1
+unusual 1
+single 1
+large 1
+erect- 1
+free 1
+
+FIFTH AVENUE—
+wealth— 1
+grand 1
+
+UP
+fashionable 6
+rapid 4
+grand 4
+old 4
+great 2
+fifth 2
+aristocratic 2
+summons 2
+regular 2
+municipal 2
+
+NEW YORKER'S
+dearest 1
+
+MOUNT MORRIS
+124th 1
+unbroken 1
+upper 1
+im- 1
+equal 1
+
+CHICKERING
+famous 1
+magnificent 1
+which 1
+other 1
+great 1
+
+RSTH
+
+OPPOSITE
+stately 1
+entire 1
+west 1
+48th 1
+elaborate 1
+brown 1
+picturesque 1
+red 1
+bleak 1
+
+EPISCOPAL
+episcopal 5
+northwest 2
+loth 2
+handsome 2
+west 2
+many 2
+other 2
+nth 1
+presbyterian 1
+37th 1
+
+ST. LUKE'S
+54th 1
+55th 1
+same 1
+ornamented 1
+
+ABUND-
+valuable 1
+abund- 1
+
+THE CITY-A
+
+WEST BROADWAY
+next 1
+59th 1
+loth 1
+55th 1
+
+SIXTH
+59th 4
+handsome 4
+northern 3
+small 3
+34th 2
+similar 2
+ornamental 2
+iioth 2
+lower 2
+old 2
+
+COLLEGE PLACE
+next 1
+59th 1
+loth 1
+55th 1
+
+YONKERS
+latter 1
+direct 1
+lower 1
+pleasantest 1
+
+TAR-
+latter 1
+direct 1
+lower 1
+pleasantest 1
+
+SECOND
+second 6
+similar 2
+pro- 1
+remarkable 1
+irregular 1
+spasmodic 1
+durino- 1
+ninth 1
+same 1
+
+APPEAR-
+appear- 4
+stout 1
+light 1
+solid 1
+firm 1
+third 1
+quite 1
+bizarre 1
+narrowest 1
+lofty 1
+
+GREENWICH
+14th 1
+.59th 1
+distant 1
+my 1
+small 1
+slow 1
+pedestrian- 1
+quieter 1
+cleanlier 1
+drab 1
+
+FERRY
+30th 1
+14th 1
+.59th 1
+short 1
+great 1
+small 1
+discharg- 1
+eastern 1
+principal 1
+velt 1
+
+TRAINS
+rapid 3
+old 1
+peculiar 1
+holiday 1
+novel 1
+busy 1
+
+A
+my 478
+its 225
+old 161
+great 153
+many 112
+her 104
+other 103
+thy 100
+new 88
+full 79
+
+BOWERY
+other 6
+her 5
+large 4
+many 4
+fashionable 4
+old 3
+numerous 3
+grand 3
+best 3
+great 3
+
+GRAND
+new 2
+grand 2
+special 2
+doubtful 1
+upward 1
+past 1
+lower 1
+small 1
+west 1
+tral 1
+
+SOCIETY— A
+fashionable 2
+—fashionable 1
+aristocratic 1
+
+HIGH LIFE—
+
+NEW VORK—
+fashionable 1
+interesting 1
+
+MC'GINNIS
+
+TWEEDALE
+superb 1
+short 1
+morial 1
+
+ENGLAND
+other 10
+old 7
+popular 3
+many 3
+white 3
+great 2
+small 2
+own 2
+eldest 2
+new 2
+
+FIFTH OR
+aristocratic 1
+new 1
+fortunate 1
+sud- 1
+first 1
+
+SARATOGA
+sixty 1
+enormous 1
+
+HINDOO
+possible 1
+sole 1
+heavy 1
+
+KNICKERBOCKER
+young 2
+old 2
+ukance 1
+next 1
+original 1
+dutch 1
+heavy 1
+solemn 1
+many 1
+cratic 1
+
+CALVARY CEMETERY
+
+WOODLAWN
+different 1
+
+^11
+
+CYPRESS HILLS
+single 2
+
+QUINCY
+exten- 1
+more 1
+italian 1
+costly 1
+monu- 1
+
+ABERDEEN
+exten- 1
+
+TRINITY CEMETERY
+
+GREENWOOD
+square 1
+following 1
+first 1
+american 1
+full 1
+second 1
+personal 1
+total 1
+
+VESEY
+entire 2
+short 1
+english 1
+immense 1
+central 1
+various 1
+
+^16
+worth 1
+several 1
+
+INDIANA
+great 3
+blue 2
+sinewy 2
+even 2
+wild 2
+own 2
+long 1
+mexican 1
+ceaseless 1
+strong 1
+
+OHIO
+thy 11
+great 4
+green 3
+its 3
+many 3
+own 3
+large 2
+long 2
+wealthy 2
+varied 2
+
+ELEVATED
+which 7
+other 5
+59th 3
+many 3
+several 3
+various 2
+successful 2
+lower 2
+few 2
+vast 2
+
+CONCORD
+east 1
+noble 1
+
+RESERVOIR PARK
+northeast 1
+34th 1
+handsome 1
+east 1
+charming 1
+occu- 1
+famous 1
+
+PELHAM BRIDGE
+59th 1
+
+WESTCHESTER COUNTY
+59th 1
+white 1
+
+BOHEMIA
+young 2
+great 1
+-street 1
+south 1
+small 1
+
+LEXINGTON
+14th 1
+next 1
+small 1
+notable 1
+entire 1
+sixth 1
+seventh 1
+elegant 1
+eighth 1
+fashionable 1
+
+PARK
+59th 10
+east 9
+lower 8
+western 7
+large 7
+southern 7
+great 6
+beautiful 6
+old 6
+other 5
+
+BROADWAY
+lower 11
+opposite 9
+fashionable 9
+old 8
+high 8
+handsome 8
+magnificent 8
+small 7
+other 7
+great 7
+
+TWENTY-
+third 17
+seventh 4
+fourth 3
+west 2
+second 2
+fourteenth 2
+latter 2
+old 2
+fifth 1
+rural 1
+
+CITY HALL SQUARE
+several 2
+cheap 2
+famous 1
+local 1
+fair 1
+res- 1
+old 1
+pawn- 1
+various 1
+prominent 1
+
+THE CITY HALL SQUARE
+several 1
+prominent 1
+its 1
+
+SOUTH
+thy 27
+my 24
+other 14
+great 12
+that 11
+many 10
+old 9
+good 9
+her 7
+large 6
+
+THE MEAIBEKS OF THD RING^SCENIJ
+
+THE EMPIRE STATE
+other 2
+liberal 1
+
+THE 
+UNION
+other 2
+superb 1
+marble 1
+liberal 1
+
+THE CITY BY NIGHT
+holiday 1
+novel 1
+busy 1
+
+UETROPOLIS
+good 1
+other 1
+tutelary 1
+true 1
+impenetrable 1
+their 1
+
+TOMBS
+little 1
+other- 1
+wise 1
+gloomy 1
+official 1
+principal 1
+popular 1
+massive 1
+eg}'ptian 1
+remarkable 1
+
+THE COUNTY COURT HOUSE
+sepa- 1
+wide 1
+open 1
+
+THE REPUBLIC
+his 2
+first 2
+per- 1
+favorite 1
+republican 1
+
+THE CITY DEPARTMENTS
+several 1
+uncompleted 1
+
+MASSACHUSETTS
+corinthian 1
+high 1
+long 1
+wide 1
+white 1
+hot 1
+precious 1
+other 1
+
+DORIC
+white 2
+doric 2
+noble 2
+high 1
+broad 1
+
+UNITED
+full 11
+great 3
+noble 2
+many 2
+ilasonic 1
+front 1
+^a 1
+tweed 1
+past 1
+vast 1
+
+GATLING
+strong 1
+larger 1
+destructive 1
+im- 1
+
+ADJOINING
+large 1
+
+HANOVER
+irregular 2
+more 1
+east 1
+south 1
+stately 1
+
+PORT
+long 1
+foreign 1
+following 1
+first 1
+american 1
+full 1
+second 1
+personal 1
+total 1
+immense 1
+
+LAIGHT
+
+READING-
+free 1
+reading- 1
+
+COOPER UNION
+triangular 1
+fourth 1
+17th 1
+square 1
+entire 1
+8th 1
+9th 1
+great 1
+
+9TH
+59th 20
+29th 6
+northern 4
+9th 3
+entire 3
+19th 3
+magnificent 2
+dry 2
+great 2
+northwest 2
+
+YOUNG
+young 6
+great 3
+grand 2
+political 2
+average 2
+her 2
+-street 1
+south 1
+old 1
+regular 1
+
+BELLEVILLE
+dark 1
+french 1
+
+HAVEN
+western 1
+other 1
+adjacent 1
+
+ALBANY
+which 2
+western 1
+other 1
+main 1
+cheap 1
+extravagant 1
+intermediate 1
+penniless 1
+destitute 1
+posable 1
+
+HARLEM RIVER
+59th 3
+northern 2
+unbroken 2
+main 1
+improve- 1
+second 1
+w^hich 1
+long 1
+foreign 1
+handsome 1
+
+THOUSAND
+great 1
+chief 1
+brief 1
+which 1
+suburban 1
+cheap 1
+happy 1
+enormous 1
+everv 1
+foolish 1
+
+ONE
+other 71
+her 39
+new 37
+great 37
+old 35
+large 30
+more 28
+few 27
+many 27
+little 27
+
+MAMMON
+sweet 1
+old 1
+clear 1
+strong 1
+busy 1
+great 1
+
+ASSISTINO- I\\^^
+assistino- 1
+i\\^^ 1
+human 1
+
+CLEARING
+their 2
+daily 2
+largest 2
+previous 1
+same 1
+connected 1
+total 1
+certain 1
+large 1
+
+THEIR
+which 113
+other 45
+own 41
+great 38
+many 36
+old 27
+large 24
+good 23
+little 19
+new 19
+
+WASHINS^TON
+special 1
+
+BETHEL
+long 2
+neat 1
+little 1
+several 1
+unused 1
+able 1
+
+PAVONIA
+other 2
+up 1
+
+WEEHAWKEN
+other 2
+up 1
+unfinished 1
+fine 1
+picturesque 1
+
+CUNARD
+familiar 1
+other 1
+great 1
+rich 1
+off 1
+
+FLORIDA
+my 14
+old 4
+great 4
+other 3
+dear 3
+vast 3
+open 3
+large 3
+black 3
+high 3
+
+NEW ORLEANS
+other 2
+various 1
+foreign 1
+domestic 1
+common 1
+which 1
+sixth 1
+half 1
+swift 1
+precious 1
+
+TEXAS
+thy 10
+my 9
+other 3
+young 3
+vast 3
+huge 3
+open 3
+great 3
+large 3
+black 3
+
+MEXICO
+huge 3
+clear 2
+vast 2
+great 2
+large 2
+black 2
+high 2
+various 1
+other 1
+foreign 1
+
+CUBA
+sure 4
+great 3
+vast 2
+huge 2
+large 2
+black 2
+high 2
+various 1
+other 1
+foreign 1
+
+CALIFORNIA
+my 16
+great 6
+old 5
+western 5
+busy 4
+many 3
+populous 3
+rude 3
+free 3
+mighty 3
+
+LONG ISLAND CITY
+several 1
+
+INDEPENDENCE
+first 2
+early 1
+royalist 1
+british 1
+military 1
+present 1
+14th 1
+organic 1
+
+WEST-
+
+RICHMOND
+worth 1
+bold 1
+national 1
+tall 1
+
+METROPOLITAN
+59th 3
+northern 2
+other 2
+american 2
+next 1
+loth 1
+55th 1
+substantial 1
+14th 1
+.59th 1
+
+^6000
+annual 1
+embroid- 1
+other 1
+
+POLICE
+municipal 5
+full 3
+first 3
+departments— 2
+sixth 2
+busy 2
+old 2
+regular 2
+singular 2
+drunk 2
+
+TELE-
+tele- 2
+national 1
+certain 1
+her 1
+foreign 1
+several 1
+iw('ry 1
+automatic 1
+various 1
+constant 1
+
+SULLIVAN
+fearful 1
+sure 1
+flickering 1
+ruddy 1
+red 1
+
+MADISON SQUARE
+smaller 2
+noble 1
+fifth 1
+western 1
+59th 1
+inter- 1
+proportionate 1
+great 1
+asleep 1
+ready 1
+
+CAPTAIN
+my 13
+good 2
+worse 2
+dear 2
+fallen 2
+cold 2
+dead 2
+interested 1
+several 1
+responsible 1
+
+CHURCH
+old 6
+west 5
+handsome 5
+fine 4
+loth 4
+east 4
+great 3
+opposite 3
+presbyterian 3
+34th 3
+
+CEDAR
+last 1
+broken 1
+
+CALCUTTA
+full 1
+vile 1
+african 1
+asiatic 1
+their 1
+picturesque 1
+
+SERGEANT
+her 3
+other 2
+same 2
+good 2
+several 1
+certain 1
+specified 1
+peculiar 1
+police- 1
+succes- 1
+
+BRIDGEPORT
+curious 1
+
+MORRLSANIA
+their 2
+new 1
+
+NORTH NEW 
+YORK
+their 2
+new 1
+
+MOTT HAVEN
+adjacent 1
+
+STATEN 
+ISLAND
+proper 1
+graceful 1
+small 1
+adjacent 1
+
+CENTRE
+principal 2
+massive 2
+egyptian 2
+quite 2
+official 1
+popular 1
+eg}'ptian 1
+broad 1
+gloomy 1
+immense 1
+
+LEONARD
+old 1
+peculiar 1
+low 1
+finest 1
+private 1
+imposing 1
+pure 1
+white 1
+official 1
+principal 1
+
+WARDEN
+sufficient 1
+poor 1
+neces- 1
+sary 1
+excellent 1
+due 1
+many 1
+previous 1
+common 1
+
+ASCER-
+ascer- 1
+several 1
+above 1
+
+BATTERY PARK
+lower 2
+small 1
+14th 1
+.59th 1
+first 1
+extreme 1
+most 1
+lish 1
+western 1
+singular 1
+
+CASTLE GARDEN
+which 3
+famous 2
+massive 1
+ex- 1
+further 1
+severe 1
+old 1
+handsome 1
+northern 1
+more 1
+
+HUDSON
+sure 5
+western 4
+your 4
+northern 3
+latter 3
+old 3
+great 3
+main 2
+extreme 2
+beautiful 2
+
+THE COUNTY 
+BUILDINGS
+
+MCDOUGAL
+
+LAFAYETTE
+very 1
+few 1
+distant 1
+southern 1
+14th 1
+grand 1
+last 1
+
+THE UNION PLACE HOTEL
+east 1
+14th 1
+next 1
+opposite 1
+superb 1
+mestic 1
+
+EAST BROADWAY
+quiet 1
+dingy 1
+old 1
+
+HOLY MOSHISH
+holy 1
+
+THE PARK — THE
+to 1
+lower 1
+worthless 1
+
+BELVIDERE
+
+59TH
+59th 20
+northern 4
+southern 2
+eastern 2
+loth 2
+iioth 2
+western 2
+immediate 1
+larger 1
+shortest 1
+
+FAIRMOUNT PARK
+largest 1
+great 1
+
+VIENNA
+finest 2
+fine 1
+grand 1
+gay 1
+beautiful 1
+largest 1
+great 1
+random 1
+real 1
+unexplored 1
+
+PHOENIX
+largest 1
+great 1
+
+DUBLIN
+other 3
+largest 1
+great 1
+british 1
+flexible 1
+gigantic 1
+many 1
+same 1
+double 1
+northern 1
+
+THE PARK
+its 9
+east 6
+lower 5
+beautiful 4
+west 4
+old 4
+small 4
+grand 3
+handsome 3
+little 3
+
+GREEN
+second 4
+various 2
+similar 2
+steady 1
+human 1
+weary 1
+jaded 1
+anxious 1
+opposite 1
+pure 1
+
+S. N. Y.
+east 1
+west 1
+
+MDCCCLXIII
+west 1
+
+THE LAKE FROM
+^the 1
+fancy 1
+full 1
+northern 1
+cious 1
+handsome 1
+ornamental 1
+
+BETHESDA
+4th 2
+large 1
+beautiful 1
+fifth 1
+certain 1
+
+FOUNTAIN
+large 1
+beautiful 1
+
+MUNICH
+exe- 1
+its 1
+ern 1
+
+TEMPERANCE
+left 1
+upper 1
+emblematic 1
+other 1
+
+THE UPPER LAKE
+accommoda- 1
+their 1
+
+WEST DRIVES
+charming 1
+old 1
+
+BELVEDERE
+open 1
+ornamental 1
+high 1
+entire 1
+old 1
+
+79TH
+86th 2
+fifth 1
+former 1
+79th 1
+latter 1
+entire 1
+96th 1
+transverse 1
+85th 1
+97th 1
+
+MOUNT ST.
+59th 1
+principal 1
+
+HARLEM MEER
+east 1
+northeast 1
+small 1
+west 1
+old 1
+extreme 1
+northern 1
+iioth 1
+
+ETRUSCAN
+east 1
+
+DRESDEN
+japanese 2
+numerous 1
+innumerable 1
+chinese 1
+egyptian 1
+rare 1
+old 1
+superb 1
+antique 1
+oriental 1
+
+SEVRES
+japanese 2
+numerous 1
+innumerable 1
+chinese 1
+egyptian 1
+rare 1
+old 1
+superb 1
+antique 1
+oriental 1
+
+CESNOLA
+east 1
+left 1
+immense 1
+precious 1
+iridescent 1
+large 1
+ancient 1
+remarkable 1
+valuable 1
+
+OBELISK
+short 1
+massive 1
+solid 1
+
+EGYPT
+egyptian 7
+old 4
+her 4
+great 3
+new 3
+picturesque 3
+massive 2
+large 2
+japanese 2
+antique 2
+
+LIEUTENANT-COMMAN-
+remarkable 1
+
+SYENE
+single 1
+
+UPPER EGYPT
+single 1
+
+LOWER
+broad 2
+present 2
+heavy 1
+vertical 1
+eastern 1
+calmer 1
+latter 1
+european 1
+lower 1
+dim 1
+
+INDIA
+indian 9
+long 7
+their 7
+great 6
+little 4
+more 3
+small 3
+my 3
+own 3
+countless 3
+
+HELIOPOLIS
+great 1
+second 1
+new 1
+full 1
+own 1
+pompous 1
+central 1
+her 1
+
+ALEXANDRIA
+great 1
+second 1
+new 1
+full 1
+own 1
+pompous 1
+central 1
+her 1
+various 1
+native 1
+
+TLIAMES
+
+466
+lower 1
+her 1
+first 1
+
+SOMME
+upright 1
+swiss 1
+several 1
+minor 1
+
+DENMARK
+upright 1
+swiss 1
+several 1
+minor 1
+
+NEW YORK STATE
+upper 1
+third 1
+geologic 1
+other 1
+speci- 1
+same 1
+original 1
+
+MARRIED MEN
+fashionable 2
+average 2
+first 1
+lost 1
+
+WICKEDEST 
+WOMAN
+average 2
+lost 1
+fashionable 1
+
+SHAME
+fashionable 2
+average 2
+french 1
+first 1
+advance 1
+busy 1
+sixth 1
+shameful 1
+lost 1
+
+GREENE
+similar 2
+southern 1
+finest 1
+second 1
+lost 1
+unfit 1
+follow- 1
+young 1
+successful 1
+various 1
+
+REACH-
+reach- 1
+impossible 1
+angry 1
+her 1
+
+WEST TWENTY
+young 1
+seventh 1
+
+THIRTIETH
+her 3
+elegant 1
+beautiful 1
+
+HAYMARKET
+
+ASSO-
+asso- 1
+ignorant 1
+unrefined 1
+unworthy 1
+honest 1
+virtuous 1
+whatever 1
+her 1
+other 1
+political 1
+
+SO-
+her 3
+so- 2
+other 2
+open 2
+damned 1
+mercial 1
+same 1
+several 1
+young 1
+fascinated 1
+
+VERMONT
+29th 1
+fine 1
+romanesque 1
+tall 1
+free 1
+big 1
+welcome 1
+simplest 1
+thoughtfullest 1
+novice 1
+
+TLIE
+present 2
+long 1
+stately 1
+steady 1
+busiest 1
+ma- 1
+all 1
+few 1
+abundant 1
+repast 1
+
+RESCU-
+terrible 1
+disastrous 1
+serious 1
+
+LUD-
+delinquent 1
+low 1
+
+NEW BRUNSWICK
+oldest 1
+late 1
+
+DREW
+early 1
+late 1
+
+ROBBERY
+various 1
+
+GYPSEY
+
+AIUIUNN
+married 2
+few 1
+random 1
+
+PO7ICESS
+private 1
+a. 1
+her 1
+
+AN
+its 443
+other 262
+great 211
+many 205
+her 170
+large 162
+old 122
+more 107
+first 100
+handsome 98
+
+SMITHVILLE
+
+CREEDMOOR
+little 1
+frequent 1
+large 1
+creedmoor 1
+several 1
+
+THE CITY HALL STATION
+
+SANDS
+
+THE JERSEY CITY
+
+PIER NO
+straight 1
+
+HTTLE
+poor 1
+many 1
+other 1
+httle 1
+lower 1
+upper 1
+social 1
+entire 1
+
+NEV/ YORK
+several 1
+great 1
+complete 1
+
+ARNOLD
+19th 1
+great 1
+dry 1
+domestic 1
+last 1
+principal 1
+
+BALTIMORE
+my 6
+other 3
+united 3
+american 2
+young 2
+rude 2
+swift 2
+whatever 2
+countless 2
+annual 1
+
+VA.
+
+HARTFORD
+
+CONN.
+
+TAUNTON
+
+ELMIRA
+
+NEW M-AYS
+first 1
+
+THALIA
+its 5
+her 3
+classic 1
+my 1
+same 1
+undying 1
+former 1
+silent 1
+century- 1
+aye 1
+
+BIJOU OPERA HOUSE
+
+WALLACK
+favorite 2
+new 2
+beautiful 2
+northeast 1
+13th 1
+many 1
+great 1
+few 1
+present 1
+occu- 1
+
+CINCINNATI
+massive 1
+white 1
+late 1
+unfathomable 1
+deadly 1
+savage 1
+menacing 1
+unchain'd 1
+
+YORKERS
+old 4
+higher 2
+better 2
+larger 2
+same 1
+various 1
+ter 1
+holy 1
+grand 1
+church- 1
+
+BAXTER
+high 1
+numerous 1
+small 1
+attractive 1
+bad 1
+magnificent 1
+humble 1
+more 1
+suitable 1
+
+NEGRO
+popular 1
+
+THE COOPER UNION
+great 1
+
+BOLOGNA
+dark 1
+back- 1
+hung 1
+unused 1
+odd 1
+odder 1
+musical 1
+various 1
+raw 1
+great 1
+
+NEWARK
+special 1
+public 1
+short 1
+
+PRINTINO--
+leading 1
+large 1
+triangular 1
+east 1
+
+THE CITY HALL PARK
+southern 2
+open 2
+triangular 2
+posite 1
+great 1
+sepa- 1
+wide 1
+few 1
+leading 1
+large 1
+
+EXECU-
+execu- 1
+great 1
+american 1
+
+EUROPE
+european 13
+great 10
+their 7
+its 5
+other 3
+various 3
+foreign 2
+first 2
+populated 1
+successive 1
+
+^600,000
+lofty 1
+illumi- 1
+nated 1
+great 1
+
+GREELEY
+recent 1
+enormous 1
+fash- 1
+ionable 1
+eastern 1
+least 1
+power- 1
+ful 1
+republican 1
+weekly 1
+
+PRINTING-HOUSE SQUARE
+loftiest 1
+handsome 1
+largest 1
+
+ANY CITY
+public 1
+inefficient 1
+cosmopolitan 1
+poor 1
+handsome 1
+largest 1
+cultivated 1
+best 1
+permanent 1
+certain 1
+
+FIRES
+annual 1
+g03 1
+
+MANCHESTER
+other 1
+british 1
+random 1
+real 1
+unexplored 1
+poison'd 1
+
+NEW HAMPSHIRE
+
+EXTINCRUISHINO-
+larger 1
+
+AND
+its 399
+other 234
+great 193
+her 154
+many 144
+large 137
+old 106
+handsome 98
+high 85
+first 85
+
+ST. PATRICK'S
+new 2
+preliminary 1
+parochial 1
+grandest 1
+free 1
+
+CATHEDRAL
+new 4
+doubtful 1
+upward 1
+past 1
+magnificent 1
+preliminary 1
+parochial 1
+grandest 1
+solid 1
+free 1
+
+PRESBYTERIANS
+roman 1
+first 1
+author- 1
+
+NEW YORK DES-
+
+GOTHIC
+gothic 12
+handsome 4
+pure 4
+red 3
+first 2
+new 2
+thirteenth 2
+white 2
+massive 2
+yellow 2
+
+ST. THOMAS'S
+fashionable 2
+53d 1
+magnificent 1
+
+TRANSFIGURATION
+episcopal 1
+29th 1
+east 1
+
+ATONEMENT
+popular 2
+old 1
+
+D.D.
+more 2
+shrewd 1
+same 1
+similar 1
+
+CATHOLIC
+roman 6
+catholic 4
+new 2
+other 2
+protestant 2
+doubtful 1
+upward 1
+past 1
+next 1
+east 1
+
+ST. STEPHEN'S
+fashionable 1
+beautiful 1
+28th 1
+29th 1
+
+MAINE
+other 3
+new 3
+old 3
+my 2
+precious 2
+countless 2
+many 2
+first 1
+pure 1
+similar 1
+
+COLOGNE
+free 1
+
+TENNESSEE
+great 7
+that 6
+her 6
+my 5
+white 4
+old 4
+blue 4
+large 4
+other 3
+same 3
+
+CHARTRES
+rious 1
+e^ich 1
+attractive 1
+fair 1
+current 1
+
+BOWERY "FREE
+many 1
+best 1
+popular 1
+
+EIOFHTH
+straight 1
+
+EAST SIDE
+her 2
+immense 1
+other 1
+dainty 1
+quick 1
+
+FATHERLAND
+several 1
+german 1
+great 1
+
+NEW ENGLANDERS
+popular 1
+western 1
+profitable 1
+
+THE UNITED 
+
+
+
+THE
+largest 1
+
+BREVOORT
+exclusive 1
+english 1
+other 1
+prominent 1
+
+CATHARINE, UNION
+principal 1
+
+WESTCHESTER
+small 2
+59th 1
+white 1
+northern 1
+ad- 1
+
+PUT-
+small 2
+
+DUTCHESS
+small 2
+
+CARMANSVILLE
+elevated 1
+
+CROTON
+its 3
+highest 1
+determined 1
+4th 1
+massive 1
+left 1
+lofty 1
+solid 1
+south- 1
+northern 1
+
+IHOTIGHT
+what 1
+mighty 1
+many 1
+heavenly 1
+
+ACROPOLIS
+weekly 1
+magnificent 1
+architectural 1
+modern 1
+splendid 1
+same 1
+
+LARGE CITY
+little 1
+same 1
+your 1
+horrible 1
+which 1
+boastful 1
+highest 1
+human 1
+ina 1
+rotting 1
+
+N^ ORLEANS
+e^ich 1
+attractive 1
+fair 1
+current 1
+
+QUEENS
+immense 1
+full 1
+republican 1
+exquisite 1
+costly 1
+their 1
+jaded 1
+satiated 1
+dreary 1
+fashionable 1
+
+DUCHESSES
+immense 1
+full 1
+republican 1
+exquisite 1
+costly 1
+their 1
+jaded 1
+satiated 1
+dreary 1
+fashionable 1
+
+LEELS
+
+PALMYRA
+solemn 1
+
+UNSAFE
+fashionable 1
+
+THOU
+my 194
+thy 135
+old 60
+great 48
+many 37
+other 31
+vast 31
+long 30
+same 29
+her 27
+
+NAZRO
+modest 1
+
+MILAN
+celebrated 1
+high 1
+mightier 1
+fairer 1
+prouder 1
+more 1
+picturesque 1
+rhenish 1
+thy 1
+great 1
+
+<DL BROADWAY
+nothmi 1
+
+GRA
+many 2
+best 2
+architectural 1
+pure 1
+intel- 1
+lacteal 1
+various 1
+exquisite 1
+massive 1
+picturesque 1
+
+MISSISSIPPI
+my 23
+all 11
+new 6
+sweet 6
+old 5
+sure 5
+great 5
+good 5
+perfect 4
+long 4
+
+STTLE
+awful 1
+yon 1
+sttle 1
+unfortunate 1
+
+CHATHAM-
+dark 2
+little 2
+more 2
+quite 2
+last 2
+grand 1
+patched 1
+threadbare 1
+leaky 1
+low 1
+
+CAROLINIAN
+his 1
+scornful 1
+hungry 1
+double 1
+
+°
+common 1
+little 1
+main 1
+pt'snant 1
+greater 1
+less 1
+
+™J"I°
+common 1
+little 1
+main 1
+pt'snant 1
+greater 1
+less 1
+
+„
+other 2
+old 2
+short 1
+cheap 1
+^strongest 1
+common 1
+little 1
+main 1
+pt'snant 1
+greater 1
+
+PAWNBROKING
+worthy 1
+common 1
+little 1
+main 1
+pt'snant 1
+greater 1
+less 1
+
+SINDBAD
+rich 1
+veracious 1
+fiery 1
+poisonous 1
+
+IBE WAY
+least 1
+noble 1
+
+UMPLESS
+tlie 1
+long 1
+bare 1
+hideous 1
+prone 1
+
+TENTON
+true 1
+strong 1
+criminal 1
+unfounded 1
+
+TH
+other 33
+great 27
+her 24
+little 23
+many 22
+good 20
+young 18
+poor 17
+few 16
+old 15
+
+ORANGE
+old 1
+ready 1
+genu- 1
+ine 1
+
+WOMAN
+her 3
+human 2
+independent 2
+weak 2
+poor 2
+other 2
+beautiful 2
+wonderful 1
+many 1
+devilish 1
+
+MAKER
+
+F^CT.
+private 1
+
+OTJEN
+little 1
+real 1
+
+A CITY GOVERNMENT
+political 1
+hungry 1
+
+LOUSES
+finest 1
+
+POSTOFFICE
+various 2
+agreeable 1
+
+HIS
+other 32
+great 29
+good 23
+many 22
+young 19
+her 18
+little 18
+few 16
+more 15
+own 14
+
+FRONT-ST
+few 1
+successful 1
+handsome 1
+intelligent 1
+
+POODLE
+interesting 1
+handsome 1
+my 1
+dear 1
+worse 1
+horrid 1
+
+JEARFUL
+his 2
+disappointed 1
+heavy 1
+jearful 1
+little 1
+impassive 1
+
+VANDYKES
+crimp- 1
+electrical 1
+hunting- 1
+joint 1
+arid 1
+nine- 1
+optical 1
+medi- 1
+mock 1
+
+MS
+respectable 1
+veritable 1
+catty 1
+real 1
+narrow 1
+high 1
+long 1
+lofty 1
+unbroken 1
+
+SOUGHING
+respectable 1
+veritable 1
+catty 1
+real 1
+
+BOHEA
+respectable 1
+veritable 1
+catty 1
+real 1
+
+BLINKUM
+new 1
+real 1
+french 1
+fast 1
+
+PEARL-STREET
+red 1
+other 1
+heavy 1
+bona 1
+responsible 1
+
+SAMMER
+sweltering 1
+full 1
+fiery 1
+intolerable 1
+scarlet 1
+sultry 1
+yellow 1
+ajl 1
+sure 1
+
+SOUTH-STREET
+proper 1
+bewildered 1
+eloquent 1
+respectable 1
+elderly 1
+rich 1
+other 1
+heavy 1
+exemplary 1
+untarnished 1
+
+WISE CITY
+
+GOMORRAH
+deep 1
+damn- 1
+your 1
+beautiful 1
+
+A CITY
+political 1
+hungry 1
+old 1
+new 1
+hetl«r 1
+present 1
+inefficient 1
+
+HIGHLANDER
+eastern 1
+parisian 1
+white 1
+oriental 1
+brown- 1
+kilted 1
+
+BRUSSELS
+genteel 1
+furnished 1
+fashionable 1
+in- 1
+half 1
+mahogany 1
+broken 1
+rickety 1
+immutable 1
+grand 1
+
+GRAND-STREET
+young 1
+hired 1
+
+PENSACOLA
+plump 1
+rosy 1
+piquant 1
+substantial 1
+rare 1
+noble 1
+fresh 1
+
+THE CITY ;
+regu- 1
+lar 1
+unworthy 1
+other 1
+
+FRUIT
+most 1
+large 1
+fresh 1
+low 1
+stale 1
+unwholesome 1
+immense 1
+subject 1
+
+CANAL-ST
+whole 2
+spacious 1
+substantial 1
+splendid 1
+present 1
+upper 1
+ijeautiful 1
+exquisite 1
+vast 1
+
+THE EAST EIVER
+spacious 1
+substantial 1
+whole 1
+splendid 1
+present 1
+
+JAKEY
+better 2
+foul 1
+distorted 1
+obvious 1
+many 1
+noble 1
+manly 1
+genteel 1
+more 1
+absolute 1
+
+SYKESEY
+better 2
+foul 1
+distorted 1
+obvious 1
+many 1
+noble 1
+manly 1
+genteel 1
+more 1
+absolute 1
+
+OFT'SPRING
+their 2
+utter 1
+many 1
+tender 1
+hke 1
+other 1
+wild 1
+
+B'HOY
+enough 3
+many 3
+better 3
+most 3
+extraordinary 2
+human 2
+other 2
+true 2
+little 2
+national 2
+
+PARK-
+quite 2
+which 2
+finest 1
+several 1
+little 1
+manifest 1
+enough 1
+
+THE CITY UNMOLESTED —
+few 1
+other 1
+unmolested 1
+black 1
+
+BEL
+rowdy 1
+red 1
+whose 1
+highest 1
+
+THE CITY ARE RANSACKED
+remote 1
+unsuspecting 1
+fiendish 1
+
+SOUTH CAROLINA
+precious 1
+remarkable 1
+true 1
+first 1
+
+EIENMG STAR
+good 1
+sleepy 1
+comfortable 1
+brusque 1
+neat 1
+clamorous 1
+sized 1
+more 1
+green 1
+
+GRA^E
+best 1
+lyric 1
+superior 1
+
+BEAUTY
+elegant 2
+his 2
+old 2
+broad 1
+musical 1
+sweet 1
+respectable 1
+dry 1
+which 1
+vast 1
+
+SLIAK-
+same 1
+
+MIRANDA
+easy 1
+appropriate 1
+tremendous 1
+half 1
+the^ 1
+mock 1
+
+SINBAD
+domestic 1
+wholesome 1
+sure 1
+
+JOUR-
+jour- 1
+
+MILTON
+that 1
+light 1
+ashamed 1
+
+CRETAN
+other 1
+amiable 1
+tender 1
+
+NEWFOUNDLAND
+dismaying 1
+trampling 1
+infectious 1
+free 1
+big 1
+welcome 1
+simplest 1
+thoughtfullest 1
+novice 1
+fancy 1
+
+SOM^ 
+MHER
+true 1
+som^ 1
+mher 1
+imperative 1
+
+THEI
+thrifty 1
+wholesome 1
+white 1
+unimpeachable 1
+cheap 1
+economic 1
+other 1
+fine 1
+low 1
+descriptive 1
+
+TBE UNITED STATES
+
+ENQAIRER
+weary 1
+jaded 1
+cold 1
+thankful 1
+com- 1
+pelled 1
+last 1
+own 1
+
+JONES
+bigger 1
+pi'osperous 1
+
+SMITH
+pale 1
+young 1
+wild 1
+short 1
+obliging 1
+few 1
+stately 1
+bright 1
+cold 1
+steady 1
+
+RICELAND
+my 1
+porter- 1
+last 1
+ready 1
+
+SWEENYOROM
+distinct 1
+
+BROWNI-
+distinct 1
+
+GREECE
+large 2
+past 2
+countless 2
+its 2
+attentive 1
+surprising 1
+snowy 1
+my 1
+antique 1
+maritime 1
+
+CHIMSOUP
+second 1
+large 1
+extra 1
+
+HUNTINGDON
+separate 1
+crowded 1
+admirable 1
+all 1
+great 1
+ari 1
+
+TVHICLI
+large 1
+
+UP-
+more 2
+splendid 1
+magnificent 1
+beautiful 1
+most 1
+honest 1
+humble 1
+mercantile 1
+
+IHE
+small 3
+splendid 2
+all 2
+old 2
+own 2
+sacred 1
+secret 1
+ionable 1
+fashionable 1
+brilliant 1
+
+ALPS
+lofty 1
+unruffled 1
+mild 1
+blue 1
+golden 1
+beautiful 1
+bold 1
+utilitarian 1
+anti 1
+poetical 1
+
+WAL!-STREET
+irish 1
+other 1
+own 1
+old 1
+unhappy 1
+eldest 1
+new 1
+
+BRO^MIDWAY
+only 2
+lamentable 1
+respectable 1
+live 1
+
+ST. JAMES
+
+PARAGUAY
+short 1
+long 1
+great 1
+venetian 1
+greek 1
+
+DANDIES
+only 2
+lamentable 1
+respectable 1
+live 1
+short 1
+commoo 1
+many 1
+beautiful 1
+wonderful 1
+melancholy 1
+
+DANDYISM
+its 3
+intense 1
+cool 1
+careful 1
+fimdamental 1
+manent 1
+several 1
+different 1
+
+NEW YORK DANDYISM
+manent 1
+several 1
+different 1
+
+GONEERT
+mueh 1
+
+FOURIW
+brief 1
+good 1
+extinct 1
+supplemental 1
+
+PENITENTIARY
+darkest 1
+filthiest 1
+desperate 1
+regular 1
+worth 1
+known 1
+squalid 1
+filthy 1
+naked 1
+abject 1
+
+ORANGE COUNTY
+genu- 1
+ine 1
+
+IRIOKDO.L
+genu- 1
+ine 1
+
+UIEU-
+all 1
+uieu- 1
+whatever 1
+intoxicating 1
+same 1
+
+UCENSE
+all 1
+uieu- 1
+whatever 1
+intoxicating 1
+same 1
+
+SLICE
+good 2
+bad 1
+antici- 1
+confidential 1
+gray 1
+irregular 1
+in- 1
+numerable 1
+noisy 1
+lively 1
+
+EMIGRATION
+whole 1
+single 1
+
+BUFFALO
+main 1
+cheap 1
+extravagant 1
+which 1
+intermediate 1
+penniless 1
+destitute 1
+posable 1
+unable 1
+
+ST. LOUIS
+main 1
+cheap 1
+extravagant 1
+which 1
+intermediate 1
+penniless 1
+destitute 1
+posable 1
+unable 1
+
+MONONGAHELA
+new 5
+first- 1
+other 1
+limpid 1
+various 1
+red 1
+natural 1
+turbulent 1
+quick 1
+audacious 1
+
+WMT
+large 1
+enough 1
+few 1
+bur- 1
+public 1
+
+DIVINE
+more 2
+evil 2
+plain 2
+beau- 1
+tiful 1
+beneficent 1
+insane 1
+holy 1
+whatever 1
+finer 1
+
+PADDY
+more 1
+such 1
+
+UTILE
+liis 1
+whole 1
+her 1
+ready 1
+utile 1
+odd 1
+
+LEGHORN
+general 1
+every- 1
+good 1
+natured 1
+new 1
+expensive 1
+aristo- 1
+cratic 1
+fashionable 1
+mock 1
+
+CEDAR GROVE
+lovely 2
+delicious 1
+cheap 1
+abomi- 1
+nable 1
+never- 1
+sick 1
+sure 1
+reasonable 1
+free- 1
+
+FORT HAM-
+lovely 2
+delicious 1
+cheap 1
+abomi- 1
+nable 1
+never- 1
+sick 1
+sure 1
+reasonable 1
+free- 1
+
+NEPTUNE
+lovely 2
+delicious 1
+cheap 1
+abomi- 1
+nable 1
+never- 1
+sick 1
+sure 1
+reasonable 1
+free- 1
+
+KEYPORT
+lovely 2
+delicious 1
+cheap 1
+abomi- 1
+nable 1
+never- 1
+sick 1
+sure 1
+reasonable 1
+free- 1
+
+MIDDLETOWN
+lovely 2
+delicious 1
+cheap 1
+abomi- 1
+nable 1
+never- 1
+sick 1
+sure 1
+reasonable 1
+free- 1
+
+BRIGHTON
+lovely 2
+delicious 1
+cheap 1
+abomi- 1
+nable 1
+never- 1
+sick 1
+sure 1
+reasonable 1
+free- 1
+
+THEATRES
+honest 1
+faithful 1
+tlip 1
+less 1
+indifferent 1
+most 1
+sublime 1
+legitimate 1
+free 1
+thin 1
+
+BOOBY
+frank 1
+unbiased 1
+arduous 1
+exciting 1
+stewed 1
+cold 1
+
+THE " WAY
+frank 1
+unbiased 1
+arduous 1
+exciting 1
+stewed 1
+cold 1
+
+WINDUST
+frank 1
+unbiased 1
+arduous 1
+exciting 1
+stewed 1
+cold 1
+
+THEAFRE
+preposterous 1
+muddled 1
+brilliant 1
+promising 1
+profound 1
+higher 1
+such 1
+sensible 1
+
+THAI
+heinous 1
+mere 1
+public 1
+
+CHESHIRE
+diaphanously- 1
+robed 1
+la- 1
+enormous 1
+better 1
+till- 1
+
+MMILAR
+diaphanously- 1
+robed 1
+la- 1
+enormous 1
+better 1
+till- 1
+
+SUMMER
+old 2
+beautiful 2
+terrific 1
+gallant 1
+inexhaustible 1
+useful 1
+indispensable 1
+pret- 1
+other 1
+brilliant 1
+
+DECKER
+old 2
+pret- 1
+other 1
+brilliant 1
+ripe 1
+elastic 1
+
+DOWNING
+old 2
+pret- 1
+other 1
+brilliant 1
+ripe 1
+elastic 1
+
+LANDSEER
+exquisite 1
+volupf 1
+cud 1
+h«ve 1
+
+EGLITLY
+graceful 1
+fairy 1
+cream- 1
+white 1
+arabesque 1
+whole 1
+surmount- 1
+rich 1
+jasper- 1
+like 1
+
+BOBLE
+many 3
+venomous 1
+pure 1
+desolate 1
+
+SABBATH
+great 3
+sure 2
+most 2
+public 2
+endless 2
+accustomed 1
+ceaseless 1
+incredible 1
+least 1
+twice 1
+
+UFE
+oondude 1
+many 1
+
+UTTLE
+many 1
+smaller 1
+outrageous 1
+better 1
+whole 1
+filthy 1
+indecent 1
+safe 1
+
+UNION
+american 5
+other 4
+great 2
+new 2
+small 2
+excellent 1
+eariiest 1
+accessible 1
+principal 1
+fastidious 1
+
+PHILADELPHIA NEWSBOY
+slow 1
+easy 1
+deliberate 1
+
+OYSTERMAN
+first 1
+free 1
+
+NEWSBOY
+many 3
+more 2
+whole 2
+other 2
+long 2
+precocious 2
+tbe 1
+fond 1
+genuine 1
+full 1
+
+TIIIA
+earliest 1
+his 1
+
+STEAMER'S
+heavy 1
+first 1
+
+NEWSBOYS
+more 2
+which 2
+precocious 2
+tbe 1
+fond 1
+clear 1
+general 1
+next 1
+old 1
+poor 1
+
+BRII^ EMPIRE
+greatest 1
+
+TIIE CITIES
+insolvent 1
+fresh 1
+short 1
+free 1
+
+NEWSPAPER
+great 1
+insolvent 1
+fresh 1
+short 1
+free 1
+young 1
+strong 1
+legitimate 1
+regular 1
+extra 1
+
+LITERATURE
+wliatever 1
+critical 1
+incalculable 1
+only 1
+accessible 1
+reliable 1
+good 1
+national 1
+intellectual 1
+young 1
+
+MORNING
+my 3
+young 1
+strong 1
+legitimate 1
+regular 1
+extra 1
+grown 1
+more 1
+filthy 1
+similar 1
+
+STEAMBOAT LANDINGS
+old 2
+obscene 1
+red 1
+hot 1
+good 1
+worthless 1
+pitiful 1
+revolting 1
+spectable 1
+public 1
+
+SARSAPARILLA
+wealthy 1
+ample 1
+its 1
+
+CANADA
+
+PROVIDENCE
+princely 1
+much 1
+month- 1
+mysterious 1
+wise 1
+mere 1
+mortal 1
+
+FALL RIVER
+month- 1
+
+TROY
+month- 1
+snowy 1
+
+THI^ WRETCHED-
+thi^ 1
+wretched- 1
+
+DALLAS
+aristocratic 1
+
+ULSTER
+few 1
+fearful 1
+red 1
+crimson 1
+very 1
+uncertain- 1
+dreary 1
+graceful 1
+herculean 1
+breezy 1
+
+SERY
+merry 1
+universal 1
+human 1
+grave 1
+distinctive 1
+
+KGHT
+merry 1
+universal 1
+human 1
+grave 1
+distinctive 1
+
+GERMANY
+other 6
+thoughtful 3
+first 1
+immense 1
+moral 1
+fine 1
+aggregate 1
+flexible 1
+gigantic 1
+many 1
+
+WACH'AND SHADOW
+its 2
+celebrated 1
+first 1
+other 1
+distinguished 1
+
+EDINBURG
+other 1
+british 1
+
+BIRMINGHAM
+other 1
+british 1
+
+ART-UNION
+american 5
+other 2
+excel- 1
+lively 1
+fine 1
+wide 1
+few 1
+small 1
+ern 1
+aggregate 1
+
+GLASS
+fine 1
+annual 1
+superb 1
+rare 1
+
+WHITE
+like 1
+left 1
+political 1
+free 1
+fine 1
+annual 1
+superb 1
+rare 1
+
+ALLSTON
+
+NOVENDIER
+
+SLFCES
+
+UIOUGHT
+best 1
+venetian 1
+florentine 1
+great 1
+private 1
+
+SIAM
+great 3
+wonderful 1
+tnmi- 1
+present 1
+natured 1
+many 1
+cheap 1
+popular 1
+other 1
+
+HAFFFTELLE
+great 3
+present 1
+natured 1
+many 1
+cheap 1
+popular 1
+other 1
+
+CORREGGIO
+proper 1
+many 1
+best 1
+
+I'ISHBB
+
+VIRGIN
+best 2
+following 1
+several 1
+esteemed 1
+numerous 1
+small 1
+
+VENICE
+best 2
+following 1
+several 1
+esteemed 1
+numerous 1
+small 1
+mere 1
+vast 1
+terraqueous 1
+
+BOME
+best 2
+following 1
+several 1
+esteemed 1
+numerous 1
+small 1
+
+FLORENCE
+best 2
+following 1
+several 1
+esteemed 1
+numerous 1
+small 1
+random 1
+real 1
+unexplored 1
+poison'd 1
+
+AJL
+right 3
+i^ht 1
+worth 1
+chief 1
+immovable 1
+other 1
+democratic 1
+angle- 1
+same 1
+decent 1
+
+KINGTON
+few 1
+
+SINGAPORE
+raw 1
+
+EAST INDIES
+raw 1
+
+BARTLEBY
+my 39
+own 7
+other 5
+little 5
+few 4
+strange 4
+good 4
+usual 3
+short 3
+next 3
+
+ANY
+my 8
+other 6
+pale 4
+many 3
+dead 3
+good 2
+snug 2
+least 2
+easy 2
+own 2
+
+CARTHAGE
+sole 1
+populous 1
+innocent 1
+brooding 1
+
+VIRGINIA
+old 7
+my 6
+large 4
+black 4
+white 4
+open 3
+green 3
+huge 3
+blue 3
+soft 2
+
+THEREUPON
+idle 1
+
+ASTORIA
+my 2
+fearful 1
+incensed 1
+exasperated 1
+few 1
+upper 1
+fugitive 1
+
+PURPORT
+real 2
+evil 2
+plain 2
+permanent 1
+nebulous 1
+devilish 1
+countless 1
+low 1
+crude 1
+savage 1
+
+KANADA
+vast 3
+arctic 3
+my 2
+inseparable 2
+western 2
+huge 2
+friendly 2
+great 2
+large 2
+black 2
+
+NATURE
+my 35
+many 13
+full 8
+silent 7
+long 7
+new 7
+great 7
+old 7
+other 6
+sweet 6
+
+MANNAHATTA
+my 16
+old 6
+less 4
+large 4
+many 3
+rude 3
+free 3
+vast 3
+great 3
+high 3
+
+DAKOTA
+my 6
+italian 2
+perfect 1
+many 1
+populous 1
+southern 1
+rude 1
+deep 1
+happy 1
+fresh 1
+
+MISSOURI
+my 17
+thy 11
+that 5
+her 5
+other 4
+great 4
+own 4
+many 3
+same 3
+western 3
+
+UNDERFOOT
+curious 1
+real 1
+divine 1
+
+AMERICANOS
+her 2
+regular 1
+backward 1
+retrospective 1
+proud 1
+my 1
+delicate 1
+thin 1
+gorgeous 1
+countless 1
+
+LIBERTAD
+its 5
+young 3
+proud 3
+southern 2
+whatever 2
+whole 2
+other 2
+dead 2
+western 1
+golden 1
+
+IOWA
+long 1
+mexican 1
+ceaseless 1
+arctic 1
+inimitable 1
+western 1
+inseparable 1
+
+WISCONSIN
+long 1
+mexican 1
+ceaseless 1
+arctic 1
+inimitable 1
+western 1
+inseparable 1
+thy 1
+great 1
+green 1
+
+MINNESOTA
+long 1
+mexican 1
+ceaseless 1
+arctic 1
+inimitable 1
+western 1
+inseparable 1
+
+KANSAS
+my 7
+western 2
+even 2
+wild 2
+own 2
+long 1
+mexican 1
+ceaseless 1
+arctic 1
+inimitable 1
+
+MELANGE
+own 1
+unseen 1
+mysterious 1
+empty 1
+prophetic 1
+
+ALABAMA
+her 4
+green 3
+great 3
+golden 2
+vast 2
+huge 2
+hoarse 2
+large 2
+black 2
+high 2
+
+COLORADO
+old 4
+white 3
+rich 3
+huge 3
+clear 3
+own 3
+steady 3
+great 3
+sweet 2
+other 2
+
+ONTARIO
+blue 2
+my 2
+eastern 1
+warlike 1
+dead 1
+phantom 1
+gigantic 1
+superb 1
+stern 1
+powerful 1
+
+HURON
+first 3
+young 3
+her 3
+its 2
+old 2
+blue 2
+white 2
+eastern 1
+pure 1
+wild 1
+
+MICHIGAN
+eastern 1
+arctic 1
+inimitable 1
+western 1
+inseparable 1
+sweeter 1
+thy 1
+great 1
+green 1
+odorous 1
+
+THIRTEEN!
+
+OBSERVING
+my 7
+united 3
+american 2
+young 2
+rude 2
+other 2
+whatever 2
+unseen 1
+irrepressible 1
+bare 1
+
+THE STATES
+my 20
+new 8
+other 6
+all 5
+old 5
+great 5
+little 4
+countless 4
+vast 3
+equal 3
+
+MARYLAND
+new 3
+my 2
+other 2
+public 1
+georgian 1
+spinal 1
+true 1
+same 1
+old 1
+equal 1
+
+KANADIAN
+my 8
+other 3
+new 3
+united 3
+public 2
+old 2
+equal 2
+american 2
+young 2
+rude 2
+
+KOOSA
+new 5
+red 1
+natural 1
+turbulent 1
+quick 1
+audacious 1
+primal 1
+incessant 1
+previous 1
+grander 1
+
+OTTAWA
+new 6
+old 3
+natural 2
+primal 2
+white 2
+sweet 2
+rich 2
+other 2
+huge 2
+clear 2
+
+SAUK
+new 5
+red 1
+natural 1
+turbulent 1
+quick 1
+audacious 1
+primal 1
+incessant 1
+previous 1
+grander 1
+
+NATCHEZ
+new 5
+red 1
+natural 1
+turbulent 1
+quick 1
+audacious 1
+primal 1
+incessant 1
+previous 1
+grander 1
+
+CHATTAHOOCHEE
+new 5
+red 1
+natural 1
+turbulent 1
+quick 1
+audacious 1
+primal 1
+incessant 1
+previous 1
+grander 1
+
+ORONOCO
+new 5
+red 1
+natural 1
+turbulent 1
+quick 1
+audacious 1
+primal 1
+incessant 1
+previous 1
+grander 1
+
+WABASH
+new 5
+red 1
+natural 1
+turbulent 1
+quick 1
+audacious 1
+primal 1
+incessant 1
+previous 1
+grander 1
+
+MIAMI
+new 5
+red 1
+natural 1
+turbulent 1
+quick 1
+audacious 1
+primal 1
+incessant 1
+previous 1
+grander 1
+
+SAGINAW
+new 5
+red 2
+vast 2
+huge 2
+great 2
+large 2
+black 2
+high 2
+natural 1
+turbulent 1
+
+CHIPPEWA
+new 5
+red 1
+natural 1
+turbulent 1
+quick 1
+audacious 1
+primal 1
+incessant 1
+previous 1
+grander 1
+
+OSHKOSH
+new 5
+red 1
+natural 1
+turbulent 1
+quick 1
+audacious 1
+primal 1
+incessant 1
+previous 1
+grander 1
+
+BUZZ'D
+my 5
+few 2
+own 1
+green 1
+dry 1
+dark 1
+color'd 1
+belch'd 1
+supple 1
+full 1
+
+THESE
+my 33
+thy 17
+old 14
+great 10
+its 9
+long 8
+own 7
+white 7
+new 6
+little 5
+
+TUCKAHOE
+same 2
+hieroglyphic 1
+broad 1
+narrow 1
+black 1
+white 1
+
+UNDRAPE
+
+DANCING
+my 3
+ancient 2
+modern 2
+twenty 1
+ninth 1
+greatest 1
+least 1
+first 1
+phallic 1
+austere 1
+
+THANKSGIVING
+first 3
+young 3
+her 3
+pure 1
+its 1
+wild 1
+married 1
+unmarried 1
+strong 1
+ready 1
+
+ARKANSAS
+that 5
+her 5
+other 5
+old 5
+white 3
+great 3
+young 3
+my 3
+loose 2
+small 2
+
+CHATTAHOOCHE
+new 5
+her 5
+that 3
+other 3
+my 3
+great 2
+old 2
+young 2
+same 2
+red 1
+
+UNSCREW
+
+HEAVEN
+my 26
+its 21
+thy 12
+more 8
+own 5
+great 5
+heavenly 5
+perfect 4
+long 4
+full 4
+
+URANUS
+my 2
+train'd 1
+wider 1
+bare 1
+indolent 1
+bitter 1
+angry 1
+
+UNCLENCH
+my 1
+tight 1
+your 1
+
+LABRADOR
+plutonic 1
+old 1
+my 1
+own 1
+powder'd 1
+vain 1
+manifold 1
+great 1
+low 1
+inner 1
+
+JUDAEA
+my 6
+its 2
+same 1
+silent 1
+dark 1
+cheek'd 1
+feverish 1
+coffin'd 1
+modern 1
+eager 1
+
+RUIN'D
+my 2
+arctic 1
+plenty 1
+enough 1
+clear 1
+wonderful 1
+enormous 1
+white 1
+great 1
+colossal 1
+
+OREGON
+my 3
+robust 2
+western 2
+frailest 2
+other 2
+precious 2
+great 1
+pastoral 1
+sound 1
+american 1
+
+MAGNIFYING
+my 2
+more 2
+old 1
+cautious 1
+exact 1
+loose 1
+hideous 1
+faced 1
+worth 1
+alive 1
+
+JEHOVAH
+old 4
+my 2
+more 2
+new 2
+cautious 1
+exact 1
+loose 1
+hideous 1
+faced 1
+worth 1
+
+OSIRIS
+my 2
+more 2
+old 1
+cautious 1
+exact 1
+loose 1
+hideous 1
+faced 1
+worth 1
+alive 1
+
+ISIS
+my 2
+more 2
+old 1
+cautious 1
+exact 1
+loose 1
+hideous 1
+faced 1
+worth 1
+alive 1
+
+BELUS
+my 2
+more 2
+old 1
+cautious 1
+exact 1
+loose 1
+hideous 1
+faced 1
+worth 1
+alive 1
+
+BRAHMA
+old 3
+my 3
+more 2
+cautious 1
+exact 1
+loose 1
+hideous 1
+faced 1
+worth 1
+alive 1
+
+BUDDHA
+old 3
+my 3
+more 2
+cautious 1
+exact 1
+loose 1
+hideous 1
+faced 1
+worth 1
+alive 1
+
+ALLAH
+my 3
+more 3
+many 2
+old 1
+cautious 1
+exact 1
+loose 1
+hideous 1
+faced 1
+worth 1
+
+KORAN
+my 3
+ancient 2
+modern 2
+greatest 1
+least 1
+first 1
+phallic 1
+austere 1
+divine 1
+insane 1
+
+GARDEN
+my 3
+wondrous 2
+curious 1
+wide 1
+amorous 1
+mature 1
+beautiful 1
+present 1
+
+ADAMIC
+my 6
+great 3
+indecent 2
+diverse 2
+other 2
+willing 1
+naked 1
+twin 1
+her 1
+vigilant 1
+
+HINDUSTAN
+huge 2
+long 2
+great 2
+mediaeval 2
+old 1
+my 1
+western 1
+flowery 1
+spice 1
+plenteous 1
+
+KASHMERE
+old 1
+my 1
+western 1
+flowery 1
+spice 1
+
+SCHELLING
+my 8
+dear 3
+happy 3
+germanic 2
+greater 2
+sick 2
+cool 2
+next 2
+new 1
+antique 1
+
+PLATO
+my 8
+dear 3
+happy 3
+germanic 2
+greater 2
+sick 2
+cool 2
+next 2
+new 1
+antique 1
+
+LOUISIANA
+live 3
+joyous 3
+green 2
+wide 2
+vast 2
+huge 2
+great 2
+large 2
+black 2
+high 2
+
+FRANCE, SPAIN
+thoughtful 3
+other 3
+attached 1
+my 1
+own 1
+happy 1
+fugitive 1
+unharm'd 1
+poor 1
+simple 1
+
+CHINA
+other 4
+my 4
+thoughtful 3
+great 3
+many 3
+old 3
+long 2
+golden 2
+whole 2
+populous 2
+
+THE CONQUER'D FAME
+conquer'd 1
+mighty 1
+rich 1
+great 1
+long 1
+middle 1
+old 1
+unfaltering 1
+affectionate 1
+faithful 1
+
+FRIENDS
+invincible 1
+new 1
+greater 1
+robust 1
+
+AFRICA
+african 3
+her 3
+asiatic 2
+vast 2
+unclothed 2
+bare 2
+measureless 2
+white 2
+awake 2
+hot 1
+
+MALAYSIA, POLYNESIA
+hot 1
+longest 1
+due 1
+great 1
+indian 1
+
+SYRIA
+old 2
+emulous 1
+wild 1
+spanish 1
+continual 1
+fierce 1
+french 1
+italian 1
+musical 1
+terrible 1
+
+OKOTSK
+emulous 1
+wild 1
+spanish 1
+continual 1
+fierce 1
+french 1
+italian 1
+musical 1
+old 1
+terrible 1
+
+ANDES
+plenteous 1
+giant 1
+huge 1
+dreadful 1
+antarctic 1
+superior 1
+inferior 1
+brazilian 1
+beautiful 1
+british 1
+
+HIMALAYAS
+plenteous 1
+giant 1
+huge 1
+dreadful 1
+antarctic 1
+superior 1
+inferior 1
+brazilian 1
+beautiful 1
+british 1
+
+ALTAYS
+plenteous 1
+giant 1
+huge 1
+dreadful 1
+antarctic 1
+superior 1
+inferior 1
+brazilian 1
+beautiful 1
+british 1
+
+GHAUTS
+plenteous 1
+giant 1
+huge 1
+dreadful 1
+antarctic 1
+superior 1
+inferior 1
+brazilian 1
+beautiful 1
+british 1
+
+ELBRUZ
+plenteous 1
+giant 1
+huge 1
+dreadful 1
+antarctic 1
+superior 1
+inferior 1
+brazilian 1
+beautiful 1
+british 1
+
+KAZBEK
+plenteous 1
+giant 1
+huge 1
+dreadful 1
+antarctic 1
+superior 1
+inferior 1
+brazilian 1
+beautiful 1
+british 1
+
+BAZARDJUSI
+plenteous 1
+giant 1
+huge 1
+dreadful 1
+antarctic 1
+superior 1
+inferior 1
+brazilian 1
+beautiful 1
+british 1
+
+BALKS
+plenteous 1
+giant 1
+huge 1
+dreadful 1
+antarctic 1
+superior 1
+inferior 1
+brazilian 1
+beautiful 1
+british 1
+
+MADAGASCAR
+plenteous 1
+giant 1
+huge 1
+dreadful 1
+antarctic 1
+superior 1
+inferior 1
+brazilian 1
+beautiful 1
+british 1
+
+LYBIAN
+plenteous 1
+giant 1
+huge 1
+dreadful 1
+antarctic 1
+superior 1
+inferior 1
+brazilian 1
+beautiful 1
+british 1
+
+ARABIAN
+plenteous 1
+giant 1
+huge 1
+dreadful 1
+antarctic 1
+superior 1
+inferior 1
+brazilian 1
+beautiful 1
+british 1
+
+PERU
+plenteous 1
+giant 1
+huge 1
+dreadful 1
+antarctic 1
+superior 1
+inferior 1
+brazilian 1
+beautiful 1
+british 1
+
+GUINEA
+plenteous 1
+giant 1
+huge 1
+dreadful 1
+antarctic 1
+superior 1
+inferior 1
+brazilian 1
+beautiful 1
+british 1
+
+JAPAN
+plenteous 1
+giant 1
+huge 1
+dreadful 1
+antarctic 1
+superior 1
+inferior 1
+brazilian 1
+beautiful 1
+british 1
+
+NAGASAKI
+plenteous 1
+giant 1
+huge 1
+dreadful 1
+antarctic 1
+superior 1
+inferior 1
+brazilian 1
+beautiful 1
+british 1
+
+BOTHNIA
+plenteous 1
+giant 1
+huge 1
+dreadful 1
+antarctic 1
+superior 1
+inferior 1
+brazilian 1
+beautiful 1
+british 1
+
+BISCAY
+plenteous 1
+giant 1
+huge 1
+dreadful 1
+antarctic 1
+superior 1
+inferior 1
+brazilian 1
+beautiful 1
+british 1
+
+GREENLAND
+plenteous 1
+giant 1
+huge 1
+dreadful 1
+antarctic 1
+superior 1
+inferior 1
+brazilian 1
+beautiful 1
+british 1
+
+SUNDA
+solemn 2
+little 2
+low 2
+sweet 1
+last 1
+mournful 1
+perfect 1
+italian 1
+double 1
+northern 1
+
+LOPATKA
+double 1
+northern 1
+ready 1
+
+SOLWAY
+double 1
+northern 1
+ready 1
+
+SCHELD
+double 1
+northern 1
+ready 1
+
+NIGER
+double 1
+northern 1
+ready 1
+
+CONGO
+double 1
+northern 1
+ready 1
+
+INDUS
+old 2
+double 1
+northern 1
+ready 1
+populous 1
+wealthiest 1
+many 1
+my 1
+warlike 1
+other 1
+
+CAMBODIA
+double 1
+northern 1
+ready 1
+
+AUSTRALIA
+whole 2
+emulous 1
+wild 1
+spanish 1
+continual 1
+fierce 1
+french 1
+italian 1
+musical 1
+old 1
+
+GLASGOW
+double 1
+northern 1
+ready 1
+
+MARSEILLES
+double 1
+northern 1
+ready 1
+
+LISBON
+double 1
+northern 1
+ready 1
+
+HAMBURG
+double 1
+northern 1
+ready 1
+
+BREMEN
+double 1
+northern 1
+ready 1
+
+BORDEAUX
+double 1
+northern 1
+ready 1
+
+HAGUE
+double 1
+northern 1
+ready 1
+
+COPENHAGEN
+double 1
+northern 1
+ready 1
+
+VALPARAISO
+
+PANAMA
+
+AMAZON
+long 1
+great 1
+venetian 1
+greek 1
+benighted 1
+
+AMOUR
+long 1
+great 1
+venetian 1
+greek 1
+
+DANUBE
+long 1
+great 1
+venetian 1
+greek 1
+sturdy 1
+austrian 1
+bohemian 1
+
+LOIRE
+long 1
+great 1
+venetian 1
+greek 1
+
+GUADALQUIVER
+long 1
+great 1
+venetian 1
+greek 1
+
+VOLGA
+long 1
+great 1
+venetian 1
+greek 1
+
+ASSYRIA
+old 6
+white 2
+sweet 2
+rich 2
+other 2
+huge 2
+clear 2
+strong 2
+unjust 2
+better 2
+
+PERSIA
+old 5
+great 4
+high 3
+persian 2
+long 2
+ancient 2
+vast 2
+mediaeval 2
+religious 2
+beautiful 1
+
+GANGES
+old 3
+high 1
+populous 1
+wealthiest 1
+many 1
+my 1
+warlike 1
+other 1
+great 1
+tremendous 1
+
+SAUKARA
+old 1
+high 1
+
+I
+my 743
+that 167
+old 142
+great 102
+many 95
+thy 92
+her 77
+own 76
+more 75
+same 71
+
+MONGOLIA
+nomadic 1
+wild 1
+tail'd 1
+
+KALMUCKS
+nomadic 1
+wild 1
+tail'd 1
+
+BASKIRS
+nomadic 1
+wild 1
+tail'd 1
+
+ABYSSINIA
+nomadic 1
+wild 1
+tail'd 1
+
+PACIFIC
+great 3
+thy 3
+high 3
+whole 3
+superior 2
+clear 2
+long 2
+latest 2
+own 2
+steady 2
+
+SWITZERLAND
+sharp 1
+eyed 1
+slight 1
+long 1
+
+ST. PETERSBURG
+random 1
+real 1
+unexplored 1
+poison'd 1
+
+CONSTANTINOPLE
+random 1
+real 1
+unexplored 1
+poison'd 1
+
+ADELAIDE
+random 1
+real 1
+unexplored 1
+poison'd 1
+
+SIDNEY
+random 1
+real 1
+unexplored 1
+poison'd 1
+
+MELBOURNE
+random 1
+real 1
+unexplored 1
+poison'd 1
+
+BRISTOL
+random 1
+real 1
+unexplored 1
+poison'd 1
+
+LIMERICK
+random 1
+real 1
+unexplored 1
+poison'd 1
+
+MADRID
+random 1
+real 1
+unexplored 1
+poison'd 1
+
+CADIZ
+random 1
+real 1
+unexplored 1
+poison'd 1
+
+BARCELONA
+random 1
+real 1
+unexplored 1
+poison'd 1
+
+OPORTO
+random 1
+real 1
+unexplored 1
+poison'd 1
+
+LYONS
+random 1
+real 1
+unexplored 1
+poison'd 1
+
+BERNE
+random 1
+real 1
+unexplored 1
+poison'd 1
+
+FRANKFORT
+random 1
+real 1
+unexplored 1
+poison'd 1
+
+STUTTGART
+random 1
+real 1
+unexplored 1
+poison'd 1
+
+TURIN
+random 1
+real 1
+unexplored 1
+poison'd 1
+
+MOSCOW
+random 1
+real 1
+unexplored 1
+poison'd 1
+
+CRACOW
+random 1
+real 1
+unexplored 1
+poison'd 1
+
+WARSAW
+random 1
+real 1
+unexplored 1
+poison'd 1
+
+CHRISTIANIA
+random 1
+real 1
+unexplored 1
+poison'd 1
+
+SIBERIAN IRKUTSK
+random 1
+real 1
+unexplored 1
+poison'd 1
+
+ICELAND
+random 1
+real 1
+unexplored 1
+poison'd 1
+norwegian 1
+prussian 1
+
+ALGIERS
+african 1
+asiatic 1
+their 1
+picturesque 1
+
+TRIPOLI
+african 1
+asiatic 1
+their 1
+picturesque 1
+
+DERNE
+african 1
+asiatic 1
+their 1
+picturesque 1
+
+MOGADORE
+african 1
+asiatic 1
+their 1
+picturesque 1
+
+TIMBUCTOO
+african 1
+asiatic 1
+their 1
+picturesque 1
+
+MONROVIA
+african 1
+asiatic 1
+their 1
+picturesque 1
+
+PEKIN
+african 1
+asiatic 1
+their 1
+picturesque 1
+
+CANTON
+african 1
+asiatic 1
+their 1
+picturesque 1
+
+BENARES
+african 1
+asiatic 1
+their 1
+picturesque 1
+
+DELHI
+african 1
+asiatic 1
+their 1
+picturesque 1
+
+TOKIO
+african 1
+asiatic 1
+their 1
+picturesque 1
+
+ALEPPO
+african 1
+asiatic 1
+their 1
+picturesque 1
+
+KHIVA
+african 1
+asiatic 1
+their 1
+picturesque 1
+
+TEHERAN
+african 1
+asiatic 1
+their 1
+picturesque 1
+
+MUSCAT
+african 1
+asiatic 1
+their 1
+picturesque 1
+
+MEDINA
+african 1
+asiatic 1
+their 1
+picturesque 1
+
+MEMPHIS
+chisell'd 1
+many 1
+large 1
+
+SPAIN
+thoughtful 3
+other 3
+attached 1
+my 1
+own 1
+happy 1
+fugitive 1
+unharm'd 1
+poor 1
+simple 1
+
+NETHERLANDS
+sturdy 1
+austrian 1
+bohemian 1
+
+SEVILLE
+lithe 1
+
+CAUCASUS
+
+MESSIAH
+other 1
+
+NINEVEH
+
+MECCA
+religious 2
+old 1
+new 1
+high 1
+martial 1
+interspers'd 1
+frantic 1
+modern 1
+metrical 1
+
+NAZARETH
+
+DAMASCUS
+
+LASSA
+wide 1
+
+CEYLON
+
+SUMATRA
+
+BORNEO
+
+GREENLANDER
+
+LAPP
+
+BERBER
+
+SOUDANESE
+
+MADRAS
+
+NANKIN
+
+KAUBUL
+
+CAIRO
+
+AMAZONIA
+benighted 1
+
+BLABB'D, BLUSH'D
+evil 2
+old 1
+hot 1
+wayward 1
+vain 1
+greedy 1
+shallow 1
+malignant 1
+
+THRIVE
+necessary 1
+my 1
+our 1
+thrive 1
+ample 1
+sufficient 1
+more 1
+spiritual 1
+lasting 1
+
+ANSWERER
+my 1
+rare 1
+all 1
+
+SACRAMENTO
+sure 4
+italian 1
+great 1
+
+ALWAYS
+old 2
+vast 2
+huge 2
+great 2
+large 2
+black 2
+high 2
+good 2
+opposite 1
+green 1
+
+NEW MEXICO
+vast 2
+huge 2
+great 2
+large 2
+black 2
+high 2
+green 1
+priceless 1
+golden 1
+soft 1
+
+NORTH
+thy 28
+my 27
+that 13
+great 11
+other 10
+many 10
+good 9
+old 8
+her 7
+own 6
+
+SUSQUEHANNA
+vast 2
+huge 2
+great 2
+large 2
+black 2
+high 2
+green 1
+priceless 1
+golden 1
+soft 1
+
+POTOMAC
+old 3
+vast 2
+huge 2
+great 2
+large 2
+black 2
+high 2
+green 1
+priceless 1
+golden 1
+
+ROANOKE
+my 3
+vast 2
+huge 2
+great 2
+large 2
+black 2
+high 2
+green 1
+priceless 1
+golden 1
+
+CAROLINAS
+my 4
+great 3
+green 2
+golden 2
+vast 2
+inseparable 2
+western 2
+huge 2
+arctic 2
+large 2
+
+GEORGIA
+thy 10
+my 7
+that 6
+her 6
+great 5
+other 4
+same 4
+old 4
+new 3
+white 3
+
+KENTUCKY
+green 3
+great 3
+large 3
+white 3
+golden 2
+vast 2
+inseparable 2
+western 2
+huge 2
+few 2
+
+CHARLESTON
+my 6
+united 3
+american 2
+young 2
+rude 2
+other 2
+swift 2
+whatever 2
+countless 2
+greenish 1
+
+SAN FRANCISCO
+my 6
+united 3
+american 2
+young 2
+rude 2
+other 2
+whatever 2
+greenish 1
+resinous 1
+plenteous 1
+
+BRAZOS
+my 6
+united 3
+american 2
+young 2
+rude 2
+other 2
+whatever 2
+greenish 1
+resinous 1
+plenteous 1
+
+TOMBIGBEE
+my 9
+united 3
+american 2
+young 2
+rude 2
+other 2
+dear 2
+whatever 2
+slow 2
+greenish 1
+
+OSAGE
+my 6
+united 3
+american 2
+young 2
+rude 2
+other 2
+whatever 2
+greenish 1
+resinous 1
+plenteous 1
+
+PAUMANOK
+my 23
+old 6
+sure 4
+rude 3
+other 3
+united 3
+strong 2
+bare 2
+great 2
+american 2
+
+CITIES
+my 6
+united 3
+less 2
+american 2
+young 2
+rude 2
+other 2
+whatever 2
+greenish 1
+resinous 1
+
+CHESAPEAKE
+my 3
+eastern 1
+mad 1
+brown 1
+faced 1
+blue 1
+braced 1
+left 1
+right 1
+quick 1
+
+O
+my 376
+old 104
+that 96
+many 76
+thy 72
+great 67
+her 61
+other 45
+more 45
+dead 43
+
+DEATH
+my 20
+thy 13
+beautiful 7
+great 6
+old 6
+many 6
+good 5
+sweet 5
+solemn 5
+eternal 4
+
+SCANDINAVIA
+high 2
+dead 2
+long 2
+great 2
+mediaeval 2
+countless 2
+northern 1
+green 1
+scandinavian 1
+restless 1
+
+ETHIOPIA
+great 3
+long 2
+ancient 2
+vast 2
+mediaeval 2
+thy 2
+better 1
+fluent 1
+subtle 1
+greek 1
+
+YELLOWSTONE
+that 1
+californian 1
+little 1
+friendly 1
+arctic 1
+open 1
+black 1
+wide 1
+blue 1
+powerfulest 1
+
+OATHS
+considerate 1
+friendly 1
+best 1
+hiccupp'd 1
+smutty 1
+idle 1
+
+LABORER
+little 1
+loving 1
+
+IONIA
+long 3
+snowy 1
+thick 1
+retrospective 1
+utmost 1
+human 1
+countless 1
+
+JERUSALEM
+its 5
+her 3
+same 2
+german 1
+french 1
+spanish 1
+italian 1
+better 1
+fresher 1
+busier 1
+
+MELPOMENE
+its 5
+her 3
+my 1
+same 1
+undying 1
+former 1
+silent 1
+century- 1
+aye 1
+helmeted 1
+
+UNA
+its 5
+her 3
+my 1
+same 1
+undying 1
+former 1
+silent 1
+century- 1
+aye 1
+helmeted 1
+
+ORIANA
+its 5
+her 3
+my 1
+same 1
+undying 1
+former 1
+silent 1
+century- 1
+aye 1
+helmeted 1
+
+TANCRED
+its 5
+her 3
+my 1
+same 1
+undying 1
+former 1
+silent 1
+century- 1
+aye 1
+helmeted 1
+
+ROLAND
+its 5
+her 3
+shadowy 2
+mighty 2
+my 1
+same 1
+undying 1
+former 1
+silent 1
+century- 1
+
+LANCELOT
+its 5
+her 3
+my 1
+same 1
+undying 1
+former 1
+silent 1
+century- 1
+aye 1
+helmeted 1
+
+NEVADA
+their 2
+steady 2
+my 2
+great 2
+practical 1
+busy 1
+pick'd 1
+very 1
+old 1
+new 1
+
+BABYLON
+
+MONT CENIS
+thy 3
+latest 1
+great 1
+express 1
+delicate 1
+own 1
+current 1
+high 1
+higher 1
+left 1
+
+GOTHARD
+thy 3
+latest 1
+great 1
+express 1
+delicate 1
+own 1
+current 1
+high 1
+higher 1
+left 1
+
+THOU UNION
+thy 3
+latest 1
+great 1
+express 1
+delicate 1
+own 1
+current 1
+high 1
+higher 1
+left 1
+
+WORLD
+my 13
+same 8
+old 5
+thy 5
+vast 5
+many 4
+modern 4
+mighty 3
+present 3
+own 3
+
+NORTH,
+thy 25
+my 6
+great 5
+many 5
+good 4
+own 3
+western 3
+high 3
+long 3
+endless 3
+
+AND THE
+my 218
+its 80
+old 62
+great 47
+young 44
+her 42
+white 33
+good 32
+many 31
+long 31
+
+EMBLEM
+real 3
+secure 2
+thy 2
+determin'd 1
+broad 1
+emblematic 1
+capricious 1
+immortal 1
+permanent 1
+essential 1
+
+MENDOCINO
+whole 2
+northern 1
+saline 1
+low 1
+hoarse 1
+strong 1
+deep 1
+sharp 1
+modern 1
+golden 1
+
+IDAHO
+northern 1
+muffled 1
+ecstatic 1
+ancient 1
+unseen 1
+
+UTAH
+northern 1
+muffled 1
+ecstatic 1
+ancient 1
+unseen 1
+
+TRAIL
+great 2
+what 1
+vast 1
+native 1
+smutch'd 1
+huge 1
+stumpy 1
+strong 1
+clean 1
+white 1
+
+NIGHT
+her 4
+white 4
+dear 4
+dead 4
+my 3
+solemn 3
+large 2
+strange 2
+thick 2
+pink 2
+
+FORTH
+many 5
+my 4
+old 4
+distant 3
+own 3
+fill'd 2
+broad 2
+thy 2
+leaven'd 2
+golden 2
+
+NEBRASKA
+central 1
+inland 1
+continental 1
+whose 1
+enough 1
+powerful 1
+tremendous 1
+executive 1
+sufficient 1
+beautiful 1
+
+FAR
+my 20
+old 5
+solitary 4
+all 4
+more 4
+many 3
+its 3
+little 3
+dear 3
+happy 2
+
+PALE
+silent 1
+stern 1
+
+JOYFUL
+sad 1
+cogent 1
+my 1
+latent 1
+that 1
+east 1
+free 1
+ma 1
+mine 1
+gymnastic 1
+
+PHENICIA
+countless 2
+my 1
+past 1
+antique 1
+maritime 1
+old 1
+new 1
+small 1
+own 1
+large 1
+
+TEUTONIA
+better 2
+my 2
+old 1
+true 1
+past 1
+
+NIPHON
+western 1
+courteous 1
+cheek'd 1
+sworded 1
+open 1
+impassive 1
+
+CONFUCIUS
+western 1
+golden 1
+ecstatic 1
+secluded 1
+great 1
+southern 1
+continental 1
+whatever 1
+palpable 1
+
+MALAYSIA
+great 2
+hot 1
+longest 1
+due 1
+indian 1
+western 1
+golden 1
+ecstatic 1
+secluded 1
+southern 1
+
+PARADISE
+my 3
+solid 2
+bashful 1
+feminine 1
+dim 1
+own 1
+ethereal 1
+real 1
+permanent 1
+positive 1
+
+WHERETO
+low 1
+delicious 1
+melodious 1
+my 1
+
+BALK'D
+my 6
+thy 2
+very 1
+least 1
+arrogant 1
+real 1
+untouch'd 1
+untold 1
+mock 1
+congratulatory 1
+
+FROTH
+loose 1
+little 1
+snowy 1
+white 1
+my 1
+dead 1
+last 1
+prismatic 1
+many 1
+long 1
+
+SENEGAL
+thy 2
+untired 1
+my 1
+what 1
+
+THE BEACH AT NIGHT
+her 2
+thick 2
+vast 1
+strange 1
+pink 1
+different 1
+pale 1
+gray 1
+green 1
+purple 1
+
+THE BEACH AT NIGHT ALONE
+thick 2
+vast 1
+strange 1
+pink 1
+different 1
+pale 1
+gray 1
+green 1
+purple 1
+white 1
+
+LIBERTY
+old 3
+other 2
+jubilant 1
+dauntless 1
+rude 1
+young 1
+best 1
+indomitable 1
+ready 1
+great 1
+
+TIMES
+evil 2
+plain 2
+great 1
+devilish 1
+countless 1
+low 1
+crude 1
+savage 1
+crazed 1
+horrible 1
+
+CHATTANOOGA
+blue 2
+great 2
+strong 1
+sunburnt 1
+loud 1
+sonorous 1
+masculine 1
+large 1
+springy 1
+sinewy 1
+
+POINT
+my 6
+high 3
+strange 2
+bravest 2
+very 1
+least 1
+arrogant 1
+real 1
+untouch'd 1
+untold 1
+
+NEVADAS
+my 2
+great 2
+huge 1
+precipitous 1
+loftier 1
+towering 1
+white 1
+high 1
+black 1
+superb 1
+
+CITY OF SHIPS
+
+CITY OF THE
+beautiful 1
+sharp 1
+bow'd 1
+
+WASHINGTON PARK
+
+SOUTH-
+my 5
+same 2
+red 2
+yellow 2
+wild 2
+tremulous 2
+white 2
+dimmer 2
+eastern 1
+spontaneous 1
+
+RAIS'D
+my 14
+many 3
+little 2
+rais'd 2
+perfect 1
+populous 1
+southern 1
+rude 1
+deep 1
+happy 1
+
+MOUNTAIN
+fertile 1
+terraced 1
+abrupt 1
+high 1
+clinging 1
+tall 1
+numerous 1
+near 1
+shadowy 1
+large 1
+
+CAMP
+my 2
+evil 2
+plain 2
+gray 1
+dim 1
+sleepless 1
+slow 1
+cool 1
+fresh 1
+ample 1
+
+WOODS
+
+CAROLINA
+my 4
+great 3
+green 2
+golden 2
+vast 2
+inseparable 2
+western 2
+huge 2
+arctic 2
+large 2
+
+OREGONESE
+hot 1
+precious 1
+other 1
+
+WASHINGTON CITY
+my 3
+dead 3
+solemn 3
+beautiful 2
+white 2
+dear 2
+solid 1
+divine 1
+faced 1
+sweaty 1
+
+VICTRESS
+mighty 1
+its 1
+countless 1
+immortal 1
+proud 1
+rapturous 1
+dead 1
+dreadful 1
+
+PHANTOM
+old 3
+my 2
+young 2
+life 1
+immense 1
+freest 1
+distrustful 1
+terrible 1
+many 1
+immortal 1
+
+STANDS
+same 3
+curious 2
+old 2
+rich 2
+delicate 2
+true 2
+amused 1
+complacent 1
+idle 1
+unitary 1
+
+WEATHER-BEATEN
+hereditary 1
+first 1
+common 1
+other 1
+incomparable 1
+seminal 1
+vocal 1
+yearly 1
+whatever 1
+northern 1
+
+THE UNION
+hereditary 1
+first 1
+common 1
+other 1
+incomparable 1
+seminal 1
+vocal 1
+yearly 1
+whatever 1
+northern 1
+
+NIAGARA
+my 11
+her 5
+old 4
+new 3
+black 3
+white 3
+good 3
+high 3
+perfect 2
+southern 2
+
+THE MIDDLE STATES
+thy 1
+great 1
+green 1
+odorous 1
+tranquil 1
+white 1
+golden 1
+sweet 1
+all 1
+
+COLOR'D
+my 13
+huge 7
+white 7
+color'd 6
+young 6
+strong 6
+old 6
+great 5
+few 4
+vast 4
+
+UNCLAIM'D
+dead 5
+my 4
+fearful 1
+avoided 1
+tremulous 1
+poor 1
+garnish'd 1
+safest 1
+other 1
+
+GRANDMOTHER
+beautiful 1
+
+TEARS--0
+cut 1
+common 1
+
+SATAN
+my 6
+full 3
+solid 2
+serenest 1
+purest 1
+seething 1
+limitless 1
+small 1
+subtler 1
+astronomic 1
+
+VENUS
+serenest 1
+purest 1
+seething 1
+limitless 1
+small 1
+subtler 1
+astronomic 1
+only 1
+mystic 1
+burin'd 1
+
+MARS
+double 1
+northern 1
+ready 1
+serenest 1
+purest 1
+seething 1
+limitless 1
+small 1
+subtler 1
+astronomic 1
+
+DEMOCRACY--(THE
+average 2
+modern 2
+long 1
+present 1
+social 1
+broad 1
+artificial 1
+high 1
+like 1
+
+UNFOLDED
+superbest 2
+friendliest 2
+perfect 2
+strong 2
+arrogant 2
+brawny 2
+dear 1
+own 1
+inimitable 1
+my 1
+
+CAMDEN
+old 2
+youthful 1
+
+FRESCO'D
+italian 2
+finest 1
+soft 1
+endless 1
+pensive 1
+turbulent 1
+artificial 1
+fitting 1
+unknown 1
+subtler 1
+
+THE PRAIRIE STATES
+modern 2
+your 2
+newer 1
+primal 1
+dense 1
+joyous 1
+populous 1
+composite 1
+many 1
+powerfulest 1
+
+HEAREST
+
+SCOTCH
+fill'd 2
+good 2
+current 1
+sounding 1
+german 1
+irish 1
+merry 1
+peerless 1
+fugitive 1
+unharm'd 1
+
+MEYERBEER
+angry 1
+
+ELEUSIS
+religious 2
+old 1
+new 1
+high 1
+martial 1
+interspers'd 1
+frantic 1
+modern 1
+metrical 1
+
+CERES
+religious 2
+old 1
+new 1
+high 1
+martial 1
+interspers'd 1
+frantic 1
+modern 1
+metrical 1
+
+BURG
+huge 1
+vast 1
+strong 1
+high 1
+dim 1
+gorgeous 1
+color'd 1
+passionate 1
+
+EXCELSIS
+huge 1
+vast 1
+strong 1
+high 1
+dim 1
+gorgeous 1
+color'd 1
+passionate 1
+
+OR
+my 56
+great 16
+many 13
+old 11
+other 10
+new 10
+same 8
+own 8
+her 7
+full 6
+
+BEETHOVEN
+annual 1
+high 1
+colossal 1
+
+HAYDN
+annual 1
+high 1
+colossal 1
+
+ELD
+my 141
+his 89
+old 33
+thy 28
+her 24
+many 22
+great 18
+good 15
+young 15
+new 15
+
+PLATTE
+own 3
+wild 3
+great 3
+my 2
+clear 2
+even 2
+different 1
+same 1
+continual 1
+shrill 1
+
+LARAMIE
+great 2
+different 1
+same 1
+my 1
+own 1
+continual 1
+shrill 1
+grandest 1
+grotesque 1
+plentiful 1
+
+WAHSATCH
+great 2
+northern 1
+muffled 1
+ecstatic 1
+ancient 1
+unseen 1
+different 1
+same 1
+my 1
+own 1
+
+HUMBOLDT
+great 2
+different 1
+same 1
+my 1
+own 1
+continual 1
+shrill 1
+grandest 1
+grotesque 1
+plentiful 1
+
+UNSPEAKABLE
+vast 1
+visible 1
+alternate 1
+spiritual 1
+unspeakable 1
+high 1
+countless 1
+manifold 1
+inscrutable 1
+prophetic 1
+
+WHEREFORE
+myriad 1
+curious 1
+restless 1
+formless 1
+feverish 1
+happy 1
+sad 1
+incessant 1
+unsatisfied 1
+
+HOOK'D
+old 3
+white 2
+sweet 2
+rich 2
+other 2
+huge 2
+clear 2
+strong 2
+unjust 2
+all 2
+
+EUPHRATES
+thoughtful 1
+armenian 1
+
+ARABIA
+old 2
+plenteous 1
+giant 1
+huge 1
+dreadful 1
+antarctic 1
+superior 1
+inferior 1
+brazilian 1
+beautiful 1
+
+BENGAL
+old 2
+populous 1
+wealthiest 1
+many 1
+my 1
+warlike 1
+other 1
+great 1
+tremendous 1
+junior 1
+
+AURUNGZEBE
+old 2
+populous 1
+wealthiest 1
+many 1
+my 1
+warlike 1
+other 1
+great 1
+tremendous 1
+junior 1
+
+PALOS
+great 2
+chief 1
+little 1
+
+DISPORTEST
+
+COLUMBUS
+wreck'd 1
+old 1
+dark 1
+rebellious 1
+dreary 1
+sore 1
+stiff 1
+many 1
+nigh 1
+my 1
+
+THEE
+thy 42
+my 20
+great 6
+own 3
+more 3
+long 3
+certain 3
+old 2
+latest 2
+delicate 2
+
+SICKEN'D
+many 2
+sicken'd 1
+wreck'd 1
+old 1
+dark 1
+rebellious 1
+dreary 1
+sore 1
+stiff 1
+nigh 1
+
+ALARUM
+
+PLEASANTLY
+good 3
+whole 1
+present 1
+
+[
+my 28
+many 10
+old 8
+great 5
+dead 5
+mighty 4
+strong 4
+all 4
+little 4
+thy 4
+
+UNPERSUADABLE
+old 3
+new 2
+divine 1
+sided 1
+modern 1
+unpersuadable 1
+relentless 1
+righteous 1
+brown 1
+mighty 1
+
+SANTA SPIRITA
+lighter 1
+joyous 1
+
+SINKING
+huge 1
+few 1
+white 1
+passionless 1
+wet 1
+
+BUT AN
+other 1
+their 1
+foreign 1
+indoor 1
+
+VENERABLE
+thy 4
+best 1
+holdest 1
+western 1
+entire 1
+keel 1
+their 1
+ancient 1
+bear'st 1
+other 1
+
+NEW WORLD
+my 7
+vast 3
+thy 3
+many 2
+deep 2
+free 2
+modern 2
+average 2
+limitless 2
+vital 2
+
+ENSEMBLE
+peerless 1
+thy 1
+natal 1
+my 1
+
+EVOLUTION, FREEDOM
+peerless 1
+thy 1
+natal 1
+my 1
+
+MEDITATING
+perfect 2
+compact 2
+
+NORWAY
+bright 1
+fascinating 1
+silent 1
+northern 1
+unreachable 1
+
+FREEDOM
+my 6
+old 6
+same 5
+high 4
+thy 4
+lofty 2
+fair 2
+new 2
+entire 2
+european 2
+
+FAR DAKOTA'S
+deathless 1
+wild 1
+lonesome 1
+mournful 1
+
+SIOUX
+deathless 1
+wild 1
+lonesome 1
+mournful 1
+
+CUSTER
+indian 1
+fatal 1
+last 1
+sternest 1
+little 1
+slaughter'd 1
+his 1
+
+BREAKS
+dark 1
+thick 1
+unsuspected 1
+fierce 1
+momentary 1
+electric 1
+
+PLATTE CANYON
+even 2
+wild 2
+own 2
+best 1
+great 1
+undimm'd 1
+warlike 1
+feudal 1
+venerable 1
+round 1
+
+ONE'S-SELF
+good 2
+other 2
+democratic 2
+complete 2
+moist 1
+perennial 1
+dead 1
+convuls'd 1
+muscular 1
+sure 1
+
+THE WESTERN STATES
+good 2
+other 2
+democratic 2
+complete 2
+moist 1
+perennial 1
+dead 1
+convuls'd 1
+muscular 1
+sure 1
+
+SITKA
+steady 1
+impregnable 1
+swarming 1
+what 1
+few 1
+
+LOOMS
+small 1
+thin 1
+indian 1
+
+ACHILLES
+more 2
+snowy 1
+old 1
+mouldy 1
+resolute 1
+stepping 1
+greatest 1
+stately 1
+beautiful 1
+his 1
+
+AJAX
+greatest 1
+stately 1
+beautiful 1
+his 1
+fair 1
+best 1
+perfect 1
+yours 1
+my 1
+
+SIRIUS
+
+SLEEP
+her 4
+my 2
+alone 2
+turbulent 1
+incalculable 1
+dead 1
+clinch'd 1
+light 1
+open 1
+shut 1
+
+BIRTH
+alone 2
+other 1
+furious 1
+divine 1
+deceitful 1
+eternal 1
+
+HOMER
+long 3
+final 2
+greatest 1
+stately 1
+beautiful 1
+his 1
+fair 1
+best 1
+perfect 1
+yours 1
+
+ESCHYLUS
+vast 2
+final 2
+mighty 2
+old 2
+unspeakable 1
+delicate 1
+last 1
+keen 1
+past 1
+egyptian 1
+
+SHAKESPERE
+vast 2
+final 2
+mighty 2
+old 2
+unspeakable 1
+delicate 1
+last 1
+keen 1
+past 1
+egyptian 1
+
+TENNYSON
+its 8
+her 3
+mighty 3
+my 2
+stately 2
+shadowy 2
+vast 2
+final 2
+old 2
+same 1
+
+ERNANI
+bridal 1
+radiant 1
+infernal 1
+perfect 1
+deepest 1
+passionate 1
+sweet 1
+my 1
+unloos'd 1
+hurried 1
+
+YONNONDIO
+sluggish 1
+aged 1
+cold 1
+earlier 1
+dim 1
+low 1
+continual 1
+frozen 1
+invisible 1
+misty 1
+
+NORTH OR SOUTH
+your 3
+sweet 2
+my 2
+deep 2
+hereditary 1
+first 1
+common 1
+other 1
+incomparable 1
+seminal 1
+
+NORTH, SOUTH
+thy 9
+unknown 2
+many 2
+interminable 1
+wealthy 1
+varied 1
+limitless 1
+endless 1
+bulging 1
+incalculable 1
+
+VOLTAIRE
+my 2
+lesser 1
+old 1
+greater 1
+present 1
+thy 1
+broad 1
+plain 1
+northern 1
+outside 1
+
+DISPELL'D
+soft 1
+voluptuous 1
+eager 1
+
+O'ER CITY
+o'er 2
+illuminating 1
+loftiest 1
+last 1
+airy 1
+different 1
+calmer 1
+golden 1
+clear 1
+broad 1
+
+GODLY
+thy 2
+my 2
+sweet 1
+primitive 1
+soothing 1
+magical 1
+strange 1
+balk'd 1
+vast 1
+mighty 1
+
+MUSING
+many 3
+snowy 2
+dead 2
+long 2
+old 2
+ancient 2
+loose 1
+little 1
+white 1
+my 1
+
+GRECIAN
+old 1
+egyptian 1
+hindu 1
+deep 1
+feudal 1
+vast 1
+wondrous 1
+weird 1
+great 1
+shadowy 1
+
+MERLIN
+its 5
+her 3
+shadowy 2
+mighty 2
+my 1
+same 1
+undying 1
+former 1
+silent 1
+century- 1
+
+RONCESVALLES
+old 1
+egyptian 1
+hindu 1
+deep 1
+feudal 1
+vast 1
+wondrous 1
+weird 1
+great 1
+shadowy 1
+
+SCHILLER
+old 1
+egyptian 1
+hindu 1
+deep 1
+feudal 1
+vast 1
+wondrous 1
+weird 1
+great 1
+shadowy 1
+
+NEW-ENGLAND'S
+many 2
+distant 1
+cheery 1
+nearer 1
+mute 1
+garner'd 1
+old 1
+garrulous 1
+snowy 1
+long 1
+
+OSCEOLA
+half 1
+
+RIPEN'D
+my 4
+ripen'd 3
+indecent 2
+great 2
+green 1
+willing 1
+naked 1
+twin 1
+her 1
+vigilant 1
+
+JOY'D
+good 1
+my 1
+

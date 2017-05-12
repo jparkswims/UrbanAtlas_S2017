@@ -1,0 +1,3784 @@
+Paris
+which 4
+More 1
+much 1
+mere 1
+open 1
+immediate 1
+larger 1
+famous 1
+largest 1
+great 1
+
+London
+our 3
+which 3
+finest 2
+all 1
+substantial 1
+large 1
+fine 1
+grand 1
+gay 1
+beautiful 1
+
+Briton
+
+New York
+which 64
+its 51
+their 37
+his 34
+great 26
+other 20
+that 17
+fashionable 14
+all 13
+such 10
+
+Metropolis
+which 9
+its 7
+that 4
+their 4
+other 4
+large 4
+Great 3
+great 3
+such 3
+greater 3
+
+JERSEY CITY
+Full 3
+GRAND 1
+CENTRAL 1
+
+NEW YORK
+their 24
+its 23
+which 21
+his 20
+that 15
+great 14
+FASHIONABLE 10
+such 10
+large 10
+NEW 9
+
+CHATHAM
+Full 11
+YOUNG 2
+ilASONIC 1
+FRONT 1
+^A 1
+GREAT 1
+-STREET 1
+THEIR 1
+SOUTH 1
+SMALL 1
+
+CENTRAL PARK
+Full 12
+GRAND 4
+GREAT 2
+FIFTH 2
+LOWER 2
+ilASONIC 1
+FRONT 1
+^A 1
+^THE 1
+FANCY 1
+
+YORK CITY
+GENERAL 2
+RAPID 1
+
+THE CITY —
+RAPID 4
+GENERAL 1
+OLD 1
+ITS 1
+FIRST 1
+PRIVATE 1
+HIGH 1
+ENORMOUS 1
+HOLIDAY 1
+NOVEL 1
+
+CITY —
+RAPID 4
+NEW 2
+GENERAL 1
+OLD 1
+ITS 1
+FIRST 1
+PRIVATE 1
+HIGH 1
+ENORMOUS 1
+FLOATING 1
+
+THE CITY 5I
+NEW 1
+
+ELLIS' ISLANDS
+INNER 4
+OUTER 2
+LOWER 2
+
+THE CITY GOVERNMENT
+MUNICIPAL 2
+DEPARTMENTS— 2
+
+THE VARIOUS
+MUNICIPAL 2
+DEPARTMENTS— 2
+GREAT 2
+GRAND 2
+LEADING 2
+TO- 1
+DAILY 1
+REID— 1
+DAY— 1
+
+THE FIFTH AVENUE
+FASHIONABLE 6
+GRAND 3
+FIFTH 2
+SHODDY 2
+SUDDEN 2
+EXTRAVAGANT 2
+ROMAN 2
+OTHER 2
+SUSPICIOUS 2
+half 2
+
+BUSINESS
+GREAT 5
+GRAND 4
+NEW 3
+ENORMOUS 3
+HARD 2
+SUMMONS 2
+NOBLE 2
+MANY 2
+LONG 2
+GOOD 2
+
+NEW YORK SOCIETY
+FASHIONABLE 6
+SHODDY 2
+SUDDEN 2
+EXTRAVAGANT 2
+THEIR 1
+ARISTOCRATIC 1
+LACES^FASHIONABLE 1
+OLD 1
+
+BOHEMIA-A
+GREAT 1
+-STREET 1
+YOUNG 1
+THEIR 1
+SOUTH 1
+
+THE UNITED STATES SUB-TREASURY
+GREAT 2
+NOBLE 2
+MANY 2
+TWEED 1
+
+NEW York's
+great 2
+festal 2
+new 2
+FIRST 2
+only 2
+main 2
+ITS 1
+day— 1
+
+THE CITY IS
+OLD 2
+REGULAR 2
+MUNICIPAL 2
+SINGULAR 2
+DRUNK 2
+DISORDERLY 2
+FRUITLESS 2
+NEW 2
+MISSING 2
+POLITICAL 1
+
+LUDLOW
+Full 1
+
+THE CITY
+NEW 5
+MUNICIPAL 5
+ITS 5
+RAPID 4
+which 4
+OLD 3
+DEPARTMENTS— 2
+GREAT 2
+NOBLE 2
+MANY 2
+
+RIVERSIDE PARK
+FINE 2
+ITS 2
+DELIGHTFUL 2
+northwestern 1
+
+THE PARK COMMISSION
+GRAND 1
+LOWER 1
+
+PARISH-ITS
+FINE 1
+
+NEW YORK—
+NEW 2
+FIRST 1
+FASHIONABLE 1
+DESERVING 1
+WRETCHED 1
+
+WICKEDEST 
+
+
+
+WOMAN
+
+ERIE
+FASHIONABLE 6
+HIS 4
+GRAND 3
+Full 2
+THEIR 2
+ARISTOCRATIC 2
+LOWER 2
+SHREWD 2
+SPLENDID 2
+SUCH 2
+
+MR
+great 2
+festal 2
+new 2
+FIRST 2
+RETAIL 1
+Full 1
+ITS 1
+day— 1
+PRIVATE 1
+poor 1
+
+THE CITY-THE
+SPLENDID 1
+SUCH 1
+
+NEW YORK-NUMBER
+APARTMENTS— 1
+
+NEW YORK— THE
+NEW 2
+DESERVING 1
+WRETCHED 1
+
+NEW YORK FIREMAN—
+fund"— 1
+HEROIC 1
+
+BY-GONE
+NOTABLE 2
+BOWERY 2
+GORGEOUS 2
+GERMAN 2
+—A 1
+MYSTERIOUS 1
+
+ST
+Full 21
+FASHIONABLE 15
+GRAND 14
+GREAT 14
+NEW 12
+ITS 12
+which 12
+FIRST 11
+HIS 10
+RAPID 7
+
+WINDSOR
+GRAND 2
+OTHER 2
+SUSPICIOUS 2
+GREAT 1
+
+FURNISHING A
+GRAND 2
+OTHER 2
+SUSPICIOUS 2
+GREAT 1
+
+NEW YORK THE
+THEIR 1
+WORTHLESS 1
+CHARACTERS— 1
+
+THE PARK— THE
+GRAND 1
+LOWER 1
+THEIR 1
+WORTHLESS 1
+CHARACTERS— 1
+
+NEW YORK's
+HIGH 1
+ENORMOUS 1
+
+CHAPTER L
+GREAT 2
+GRAND 1
+OTHER 1
+SUSPICIOUS 1
+THEIR 1
+WORTHLESS 1
+CHARACTERS— 1
+FOREIGN 1
+AVERAGE 1
+NEW 1
+
+America
+American 31
+which 18
+other 9
+their 6
+his 6
+its 5
+old 4
+all 4
+first 4
+that 2
+
+Manhattan Island
+its 3
+which 2
+few 2
+main 1
+central 1
+complex 1
+chief 1
+our 1
+peculiar 1
+impossible 1
+
+West Chester County
+main 1
+
+Manhattan
+its 7
+which 3
+few 2
+west 2
+western 2
+our 2
+main 1
+fifth 1
+rural 1
+miniature 1
+
+Washington Heights
+few 2
+its 1
+northern 1
+bold 1
+beautiful 1
+fine 1
+west 1
+valuable 1
+upper 1
+hand- 1
+
+New Jersey
+its 5
+which 4
+Several 2
+great 2
+several 2
+large 2
+main 1
+numerous 1
+constant 1
+main- 1
+
+Manhattanville
+fifth 1
+west 1
+rural 1
+miniature 1
+
+Houston
+which 3
+west 1
+Grand 1
+our 1
+fearful 1
+sure 1
+flickering 1
+ruddy 1
+red 1
+singular 1
+
+Italy
+high 2
+clearer 1
+beautiful 1
+lofty 1
+Italian 1
+superb 1
+Corinthian 1
+which 1
+purest 1
+precious 1
+
+Third
+which 10
+its 7
+Its 3
+their 3
+great 2
+30th 2
+14th 2
+9th 2
+straight 2
+entire 2
+
+Eighth
+59th 6
+which 5
+its 4
+third 3
+loth 2
+western 2
+Eighth 2
+iioth 2
+red 2
+handsome 2
+
+New York city
+old 1
+which 1
+past 1
+American 1
+
+city
+which 107
+their 95
+its 67
+great 64
+his 52
+other 38
+all 27
+large 27
+many 24
+that 23
+
+Edinburgh
+high 2
+which 1
+its 1
+original 1
+new 1
+full 1
+southern 1
+finest 1
+
+Scotland
+high 2
+which 1
+its 1
+original 1
+new 1
+full 1
+placid 1
+long 1
+regular 1
+exten- 1
+
+the Western Union Telegraph Company
+which 2
+high 1
+
+Broad
+which 26
+its 21
+their 14
+high 10
+lower 10
+opposite 9
+handsome 9
+old 7
+magnificent 7
+several 6
+
+MetropoHtan Bank
+
+Pine
+high 2
+its 2
+few 1
+imme- 1
+Broad 1
+white 1
+Doric 1
+noble 1
+higher 1
+northern 1
+
+Appleton
+their 1
+STATELY 1
+stately 1
+
+Mulberry
+which 3
+high 1
+numerous 1
+small 1
+attractive 1
+singular 1
+looking 1
+flashy 1
+huge 1
+colored 1
+
+and Union Square
+which 2
+Fourteenth 1
+late 1
+Domestic 1
+high 1
+its 1
+
+Stevens Apartment House
+seventh 2
+its 1
+extraordinary 1
+
+Delaware
+its 3
+inter- 1
+such 1
+rapid 1
+His 1
+alive 1
+
+Cortlandt
+its 3
+inter- 1
+such 1
+rapid 1
+
+New Church
+which 2
+less 1
+build- 1
+small 1
+large 1
+next 1
+59th 1
+loth 1
+55th 1
+
+New Chambers
+less 1
+build- 1
+small 1
+large 1
+
+New Bowery
+less 1
+build- 1
+small 1
+large 1
+
+NEW VORKr—
+NEW 2
+FLOATING 1
+FOREIGN 1
+
+the United States
+their 5
+that 3
+its 3
+other 3
+certain 2
+which 2
+various 2
+Tenth 1
+skilled 1
+ter 1
+
+"
+which 116
+his 114
+their 99
+its 53
+other 40
+that 37
+great 34
+her 28
+such 27
+my 22
+
+Eightieth
+largest 1
+which 1
+Eightieth 1
+
+Seventh
+Seventh 5
+which 2
+its 2
+their 2
+Thirteenth 1
+short 1
+safe 1
+ooo 1
+full 1
+during- 1
+
+Tenth
+Tenth 4
+which 3
+old 2
+high 1
+their 1
+last 1
+Thirteenth 1
+large 1
+sewino- 1
+73d 1
+
+the City
+which 7
+various 5
+their 4
+great 4
+other 3
+its 2
+whose 2
+present 2
+southern 2
+our 2
+
+Brooklyn
+which 7
+great 4
+their 3
+that 2
+vast 2
+several 2
+large 2
+long 2
+main- 1
+Rapid 1
+
+Long Island
+its 5
+large 2
+old 2
+great 2
+Several 1
+main 1
+numerous 1
+constant 1
+main- 1
+Rapid 1
+
+Staten Island
+bold 3
+our 2
+little 2
+white 2
+picturesque 2
+their 2
+its 2
+main- 1
+placid 1
+bright 1
+
+Connecticut
+small 2
+main- 1
+Rapid 1
+present 1
+their 1
+own 1
+whose 1
+elevated 1
+entire 1
+suburban 1
+
+Island
+its 12
+which 11
+their 7
+our 7
+old 4
+little 4
+bold 4
+other 4
+few 3
+present 3
+
+Durinof
+eiofht 1
+all 1
+their 1
+fullest 1
+
+Western city
+Western 1
+
+Coney Island
+distant 2
+our 2
+other 2
+its 2
+whole 1
+Pretty 1
+immense 1
+visible 1
+alive 1
+their 1
+
+County
+which 3
+main 1
+full 1
+other 1
+Such 1
+great 1
+American 1
+59th 1
+sepa- 1
+wide 1
+
+the Southern States
+yellow 1
+its 1
+heavy 1
+
+Russia
+recent 1
+characteristic 1
+generous 1
+
+Turkey
+recent 1
+characteristic 1
+generous 1
+
+Chicago
+western 1
+latter 1
+brilliant 1
+other 1
+
+Heathen
+other 2
+Christian 1
+pleasant 1
+social 1
+individual 1
+worth 1
+
+New 
+York
+which 12
+their 10
+its 7
+great 7
+other 4
+next 3
+that 3
+all 3
+New 3
+careful 2
+
+United 
+States
+largest 2
+its 2
+which 1
+shorter 1
+14th 1
+great 1
+15th 1
+famous 1
+daring 1
+resolute 1
+
+Great Britain
+bad 1
+wretched 1
+stringent 1
+all 1
+their 1
+own 1
+vast 1
+such 1
+assist- 1
+small 1
+
+States
+their 10
+which 8
+its 6
+other 6
+his 5
+largest 4
+that 3
+all 3
+certain 3
+first 3
+
+Jersey
+its 10
+which 10
+great 6
+their 5
+our 4
+other 4
+distant 3
+Several 2
+full 2
+western 2
+
+ex-
+their 10
+his 5
+ex- 4
+which 4
+own 3
+that 3
+unex- 3
+its 3
+great 2
+all 2
+
+Fifth
+Fifth 19
+which 13
+its 12
+fashionable 9
+59th 6
+new 4
+small 4
+large 4
+his 4
+east 4
+
+Ninth
+which 5
+my 4
+his 4
+Ninth 4
+third 2
+30th 2
+Tenth 2
+second 1
+foregoing 1
+situ- 1
+
+El Dorado
+large 2
+cogent 1
+my 1
+whose 1
+such 1
+veritable 1
+succeed- 1
+
+^40,000
+identical 1
+Italian 1
+single 1
+
+1866
+his 6
+nth 1
+disposed 1
+whole 1
+good 1
+which 1
+prosperous 1
+handsome 1
+only 1
+
+^100,000
+open 1
+more 1
+shrewd 1
+old 1
+whole 1
+late 1
+wise 1
+siderable 1
+daily 1
+rious 1
+
+Boston
+late 1
+wise 1
+western 1
+other 1
+72d 1
+heroic 1
+
+Pennsylvania
+other 2
+his 2
+whole 1
+greater 1
+my 1
+more 1
+exten- 1
+next 1
+few 1
+handsome 1
+
+Palisades
+its 3
+western 2
+natural 1
+peerless 1
+panoramic 1
+our 1
+desirable 1
+
+Boulevards
+its 3
+western 2
+natural 1
+peerless 1
+panoramic 1
+our 1
+desirable 1
+
+Morningside Park
+that 1
+northwestern 1
+
+Pearl
+his 3
+Dutch 2
+social 2
+which 2
+early 1
+east 1
+long 1
+active 1
+old 1
+west 1
+
+Fulton
+its 4
+which 2
+great 2
+Dutch 1
+religious 1
+same 1
+beautiful 1
+white 1
+sumptuous 1
+entire 1
+
+Nassau
+which 2
+noble 2
+Dutch 1
+religious 1
+parallel 1
+immedi- 1
+good 1
+tall 1
+narrow 1
+corporate 1
+
+Canal
+which 6
+its 4
+their 4
+lower 2
+high 2
+small 2
+such 2
+that 2
+regular 1
+noticeable 1
+
+Harlem
+which 13
+its 8
+east 3
+unbroken 3
+59th 3
+northern 3
+great 2
+sudden 2
+other 2
+few 2
+
+Stuyvesant Square
+many 1
+first 1
+
+Washington
+which 6
+first 6
+its 5
+fine 3
+fashionable 3
+his 3
+few 2
+northern 2
+beautiful 2
+east 2
+
+Fourth
+which 3
+14th 3
+17th 3
+fashionable 2
+other 2
+grand 2
+9th 2
+its 2
+34th 2
+next 2
+
+Hebrew
+very 1
+its 1
+elevated 1
+attractive 1
+which 1
+large 1
+opulent 1
+our 1
+slow 1
+
+France
+our 3
+finest 2
+fine 1
+grand 1
+gay 1
+beautiful 1
+French 1
+great 1
+upright 1
+Swiss 1
+
+Riverside
+our 3
+fine 2
+finest 2
+that 2
+grand 1
+gay 1
+beautiful 1
+broad 1
+open 1
+interminable 1
+
+Naples
+our 3
+finest 2
+fine 1
+grand 1
+gay 1
+beautiful 1
+
+Rome
+our 3
+finest 2
+his 2
+fine 1
+grand 1
+gay 1
+beautiful 1
+exe- 1
+great 1
+second 1
+
+Berlin
+our 3
+fine 2
+finest 2
+which 2
+grand 1
+gay 1
+beautiful 1
+More 1
+much 1
+mere 1
+
+Boulevard
+its 5
+western 2
+natural 1
+peerless 1
+panoramic 1
+our 1
+desirable 1
+busy 1
+picturesque 1
+east 1
+
+Fort Washington
+its 2
+busy 1
+picturesque 1
+east 1
+beautiful 1
+
+Seine
+which 2
+More 1
+much 1
+mere 1
+open 1
+immediate 1
+
+Spree
+which 2
+More 1
+much 1
+mere 1
+open 1
+immediate 1
+
+Erie
+which 5
+other 2
+fine 1
+proper 1
+little 1
+various 1
+their 1
+up 1
+southern 1
+decep- 1
+
+Port Morris
+long 1
+foreign 1
+
+City
+which 11
+various 9
+great 8
+their 7
+other 7
+public 4
+few 3
+several 3
+prominent 3
+all 3
+
+Windsor
+shorter 1
+most 1
+great 1
+which 1
+east 1
+48th 1
+massive 1
+red 1
+elegant 1
+cosdy 1
+
+Staten
+which 4
+bold 4
+our 2
+little 2
+white 2
+picturesque 2
+their 2
+its 2
+main- 1
+natural 1
+
+Long Islands
+natural 1
+which 1
+safest 1
+snug 1
+
+Castle William
+our 1
+half 1
+round 1
+formidable 1
+
+Fort Gibson
+which 1
+armed 1
+heavy 1
+
+Fort Wood
+which 2
+larger 1
+
+Scribiter s Magazine
+central 1
+complex 1
+chief 1
+our 1
+
+Hoboken
+other 2
+various 1
+great 1
+European 1
+up 1
+neighbor- 1
+
+Jersey City
+great 3
+other 3
+their 3
+which 2
+proper 1
+various 1
+European 1
+up 1
+adjacent 1
+single 1
+
+Bay Ridge
+proper 1
+Pretty 1
+distant 1
+
+Upper
+which 4
+its 2
+central 1
+detached 1
+present 1
+small 1
+gigantic 1
+free 1
+narrow 1
+provincial 1
+
+Philadelphia
+its 1
+annual 1
+which 1
+other 1
+separate 1
+comfortable 1
+
+Fort Hamilton
+adjacent 2
+large 1
+casemated 1
+old 1
+fashioned 1
+very 1
+few 1
+distant 1
+heavy 1
+concentrated 1
+
+Fort Richmond
+worth 1
+which 1
+bold 1
+national 1
+tall 1
+
+Fort Tompkins
+adjacent 2
+worth 1
+which 1
+heavy 1
+concentrated 1
+its 1
+opposite 1
+old 1
+
+Fort Wadsworth
+its 2
+second 1
+southern 1
+main 1
+left 1
+earthen 1
+other 1
+west 1
+infected 1
+lower 1
+
+North and South
+
+Raritan
+graceful 1
+small 1
+which 1
+
+Quarantine
+much 1
+interesting 1
+famous 1
+upper 1
+lower 1
+several 1
+his 1
+outer 1
+substantial 1
+
+Fort Wads-
+upper 1
+which 1
+worth 1
+little 1
+half 1
+
+Drs
+senior 1
+his 1
+
+West Indies
+other 2
+west 1
+infected 1
+lower 1
+which 1
+same 1
+various 1
+foreign 1
+domestic 1
+
+West Bank
+other 1
+west 1
+infected 1
+lower 1
+which 1
+same 1
+
+Illinois
+old 1
+indefinite 1
+
+Cape
+foreign 1
+domestic 1
+which 1
+sick 1
+subject 1
+requisite 1
+proper 1
+infectious 1
+
+Savannah
+past 1
+vigilant 1
+other 1
+yellow 1
+prevalent 1
+
+Rockaway Beach
+our 1
+their 1
+white 1
+distant 1
+other 1
+which 1
+formidable 1
+
+a visit
+blue 1
+.to 1
+pleasant 1
+profitable 1
+interesting- 1
+outer 1
+his 1
+
+shining^
+our 1
+shining^ 1
+
+Sandy
+its 4
+which 3
+their 3
+bold 2
+tall 2
+our 2
+unfinished 2
+white 2
+short 1
+starboard 1
+
+Squan
+lower 1
+all 1
+recent 1
+
+Barnegat
+lower 1
+all 1
+recent 1
+
+United States
+their 6
+which 6
+his 4
+other 4
+that 3
+its 3
+certain 3
+first 3
+large 2
+various 2
+
+Yqung
+which 1
+
+New York Coney Island
+its 2
+great 1
+famous 1
+
+Syrens
+which 1
+thick 1
+terrific 1
+east 1
+head- 1
+its 1
+
+Beaver
+principal 1
+
+Red 
+Bank
+its 2
+mere 1
+high 1
+rich 1
+
+Navisink
+other 1
+
+Beacon Hill
+
+Highlands
+their 2
+white 2
+brush- 1
+frail 1
+full 1
+main 1
+picturesque 1
+bold 1
+interesting 1
+pleasant 1
+
+The City of New York
+various 1
+
+the City Govern-
+
+Chamberlain
+
+Comptroller
+which 2
+all 1
+fiscal 1
+important 1
+political 1
+lucrative 1
+polidcal 1
+
+the City Gov-
+much 1
+its 1
+
+Aldermen
+various 1
+upper 1
+24th 1
+more 1
+which 1
+superior 1
+super- 1
+Its 1
+All 1
+old 1
+
+the city
+which 79
+their 62
+its 38
+his 26
+great 22
+other 20
+that 18
+many 18
+large 17
+all 16
+
+City Judge
+
+the City Hall
+which 4
+their 3
+great 3
+present 2
+southern 2
+our 2
+open 2
+other 2
+few 2
+special 2
+
+Ameri-
+which 2
+modern 1
+success- 1
+large 1
+enough 1
+wonderful 1
+after- 1
+great 1
+
+Ireland
+which 2
+modern 1
+success- 1
+large 1
+enough 1
+oldest 1
+local 1
+religious 1
+his 1
+own 1
+
+New
+which 86
+its 67
+their 56
+his 41
+great 36
+other 29
+that 22
+all 16
+fashionable 15
+such 11
+
+the City Com-
+various 1
+lucrative 1
+whose 1
+
+New Amsterdam
+his 2
+their 2
+whose 2
+Dutch 1
+old 1
+own 1
+venerable 1
+palmy 1
+little 1
+less 1
+
+Liverpool
+great 2
+future 1
+present 1
+substantial 1
+handsome 1
+which 1
+New 1
+its 1
+other 1
+
+Western Union Telegraph Company
+which 2
+high 2
+tall 1
+its 1
+lofty 1
+bewildering 1
+look- 1
+gigantic 1
+
+St. Paul's
+many 1
+active 1
+entire 1
+its 1
+venerable 1
+few 1
+lutionary 1
+vast 1
+following 1
+other 1
+
+the Western Union Telegraph
+which 2
+high 1
+noble 1
+
+its
+its 460
+which 109
+their 74
+his 57
+that 39
+old 28
+other 28
+great 25
+many 19
+high 18
+
+Western 
+Union Telegraph Building
+many 1
+alone 1
+re- 1
+Western 1
+occasional 1
+casual 1
+stony 1
+
+Spring
+comfortable 2
+Higher 1
+famous 1
+west 1
+37th 1
+many 1
+pastoral 1
+sixty 1
+enormous 1
+new 1
+
+the MetropoHtan Hotel
+which 2
+east 1
+handsome 1
+im- 1
+
+Mansard
+west 1
+immense 1
+red 1
+light 1
+high 1
+prompt 1
+small 1
+several 1
+extra 1
+
+New York's
+handsome 1
+white 1
+pretty 1
+same 1
+opposite 1
+loth 1
+fine 1
+which 1
+dry 1
+latest 1
+
+to Union Square
+wholesale 1
+dry 1
+such 1
+fancy 1
+distant 1
+Several 1
+leading 1
+close 1
+late 1
+
+23d
+my 7
+his 7
+which 4
+only 2
+natural 2
+59th 2
+24th 2
+east 2
+entire 2
+26th 2
+
+Albemarle
+24th 1
+occu- 1
+opposite 1
+which 1
+elegant 1
+superb 1
+private 1
+other 1
+prominent 1
+
+Seminole
+opposite 1
+handsome 1
+gallant 1
+Mexican 1
+
+New York Club House
+tasteful 1
+red 1
+
+Broadway Theatre
+opposite 1
+west 1
+
+New Theatre
+southeast 1
+30th 1
+beautiful 1
+its 1
+
+the 
+Union Dime Savings Bank
+superb 1
+marble 1
+
+Poverty
+
+Fulton Ferry
+which 1
+velt 1
+
+Slawson
+which 2
+front 1
+correct 1
+
+Bleecker
+fashionable 2
+next 1
+few 1
+useful 1
+hearted 1
+great 1
+fourth 1
+similar 1
+single 1
+handed 1
+
+^6
+more 2
+other 2
+Nice 1
+white 1
+worth 1
+unusual 1
+single 1
+much 1
+large 1
+erect- 1
+
+FIFTH AVENUE—
+WEALTH— 1
+GRAND 1
+
+UP
+FASHIONABLE 6
+RAPID 4
+GRAND 4
+OLD 4
+GREAT 2
+FIFTH 2
+THEIR 2
+ARISTOCRATIC 2
+SUMMONS 2
+REGULAR 2
+
+New Yorker's
+dearest 1
+
+Mount Morris
+which 1
+124th 1
+unbroken 1
+upper 1
+im- 1
+equal 1
+
+Chickering
+famous 1
+such 1
+magnificent 1
+their 1
+which 1
+other 1
+great 1
+
+rSth
+
+Opposite
+stately 1
+entire 1
+its 1
+west 1
+48th 1
+elaborate 1
+brown 1
+picturesque 1
+red 1
+which 1
+
+Episcopal
+Episcopal 5
+northwest 2
+loth 2
+handsome 2
+west 2
+many 2
+other 2
+nth 1
+Presbyterian 1
+37th 1
+
+St. Luke's
+54th 1
+55th 1
+same 1
+ornamented 1
+
+abund-
+valuable 1
+that 1
+abund- 1
+
+THE CITY-A
+
+West Broadway
+which 2
+next 1
+59th 1
+loth 1
+55th 1
+
+Sixth
+which 6
+its 6
+59th 4
+handsome 4
+northern 3
+small 3
+34th 2
+similar 2
+ornamental 2
+iioth 2
+
+College Place
+which 2
+next 1
+59th 1
+loth 1
+55th 1
+
+Yonkers
+latter 1
+direct 1
+lower 1
+pleasantest 1
+
+Tar-
+latter 1
+direct 1
+lower 1
+pleasantest 1
+
+Second
+Second 6
+similar 2
+pro- 1
+remarkable 1
+irregular 1
+spasmodic 1
+that 1
+durino- 1
+Ninth 1
+Its 1
+
+appear-
+appear- 4
+stout 1
+light 1
+solid 1
+firm 1
+third 1
+quite 1
+bizarre 1
+narrowest 1
+lofty 1
+
+Greenwich
+which 1
+14th 1
+.59th 1
+distant 1
+my 1
+his 1
+
+Ferry
+which 3
+30th 1
+Its 1
+14th 1
+.59th 1
+short 1
+great 1
+small 1
+discharg- 1
+their 1
+
+TRAINS
+RAPID 3
+OLD 1
+ITS 1
+peculiar 1
+HOLIDAY 1
+NOVEL 1
+BUSY 1
+
+A
+which 151
+his 105
+their 95
+its 81
+great 47
+other 46
+large 40
+American 31
+few 29
+first 28
+
+Bowery
+his 9
+many 4
+its 4
+which 4
+old 3
+numerous 3
+large 2
+their 2
+broad 2
+certain 2
+
+Grand
+which 3
+new 2
+Grand 2
+their 2
+special 2
+its 2
+doubtful 1
+upward 1
+past 1
+lower 1
+
+SOCIETY— A
+FASHIONABLE 2
+THEIR 1
+—FASHIONABLE 1
+ARISTOCRATIC 1
+
+HIGH LIFE—
+
+NEW VORK—
+FASHIONABLE 1
+INTERESTING 1
+
+Mc'Ginnis
+
+Tweedale
+superb 1
+his 1
+short 1
+morial 1
+
+England
+which 3
+popular 2
+proudest 1
+immense 1
+fresh 1
+graceful 1
+great 1
+small 1
+that 1
+leaden 1
+
+Fifth or
+aristocratic 1
+new 1
+fortunate 1
+sud- 1
+first 1
+
+Saratoga
+sixty 1
+enormous 1
+
+Hindoo
+possible 1
+sole 1
+heavy 1
+
+Knickerbocker
+their 3
+UKANCE 1
+next 1
+original 1
+Dutch 1
+heavy 1
+solemn 1
+young 1
+many 1
+cratic 1
+
+Calvary Cemetery
+which 1
+
+Woodlawn
+different 1
+which 1
+
+^11
+
+Cypress Hills
+Single 1
+single 1
+
+Quincy
+exten- 1
+more 1
+Italian 1
+costly 1
+monu- 1
+which 1
+
+Aberdeen
+exten- 1
+
+Trinity Cemetery
+which 1
+
+Greenwood
+square 1
+which 1
+following 1
+first 1
+American 1
+all 1
+Full 1
+second 1
+personal 1
+Total 1
+
+Vesey
+entire 2
+its 1
+short 1
+English 1
+which 1
+immense 1
+central 1
+various 1
+
+^16
+worth 1
+several 1
+Its 1
+
+Indiana
+
+Ohio
+light 1
+warm 1
+large 1
+regular 1
+sure 1
+
+Elevated
+their 7
+which 7
+its 5
+other 5
+59th 3
+various 2
+successful 2
+lower 2
+few 2
+vast 2
+
+Concord
+east 1
+noble 1
+
+Reservoir Park
+northeast 1
+34th 1
+handsome 1
+east 1
+charming 1
+occu- 1
+famous 1
+which 1
+
+NEW
+its 24
+their 24
+which 21
+his 20
+great 16
+that 15
+NEW 14
+FASHIONABLE 11
+such 10
+large 10
+
+Pelham Bridge
+59th 1
+which 1
+
+Westchester County
+59th 1
+which 1
+white 1
+
+BOHEMIA
+YOUNG 2
+GREAT 1
+-STREET 1
+THEIR 1
+SOUTH 1
+SMALL 1
+
+Lexington
+14th 1
+next 1
+all 1
+small 1
+notable 1
+entire 1
+sixth 1
+seventh 1
+elegant 1
+eighth 1
+
+Park
+which 39
+its 27
+59th 10
+east 9
+lower 8
+western 7
+our 7
+large 7
+southern 7
+great 6
+
+Central Park
+which 12
+59th 6
+its 5
+our 4
+other 3
+western 2
+larger 2
+whole 2
+finest 2
+that 2
+
+Broadway
+which 24
+its 18
+their 13
+lower 10
+opposite 9
+high 8
+handsome 8
+old 7
+magnificent 7
+his 6
+
+Twenty-
+third 17
+fourth 3
+seventh 3
+its 3
+west 2
+second 2
+Fourteenth 2
+latter 2
+their 2
+old 2
+
+Chatham
+which 3
+Its 1
+extra 1
+famous 1
+local 1
+other 1
+similar 1
+worthy 1
+quiet 1
+dingy 1
+
+City Hall Square
+cheap 2
+famous 1
+local 1
+several 1
+fair 1
+res- 1
+old 1
+pawn- 1
+various 1
+Several 1
+
+NASSAU
+THEIR 2
+GREAT 1
+-STREET 1
+YOUNG 1
+SOUTH 1
+
+the City Hall Square
+Several 1
+prominent 1
+their 1
+its 1
+
+South
+which 9
+its 6
+various 3
+other 3
+all 2
+large 2
+favorite 2
+short 2
+great 2
+South 2
+
+THE MEaiBEKS OF THD RING^SCENIJ
+HIS 1
+
+the Empire State
+other 2
+his 1
+liberal 1
+
+the 
+Union
+other 2
+superb 1
+marble 1
+his 1
+liberal 1
+
+THE CITY BY NIGHT
+HOLIDAY 1
+NOVEL 1
+BUSY 1
+
+Uetropolis
+good 1
+other 1
+tutelary 1
+his 1
+true 1
+impenetrable 1
+that 1
+their 1
+
+Tombs
+which 3
+little 1
+their 1
+other- 1
+wise 1
+gloomy 1
+official 1
+principal 1
+popular 1
+massive 1
+
+the County Court House
+which 1
+sepa- 1
+wide 1
+open 1
+
+the Republic
+which 2
+his 2
+first 2
+Its 1
+per- 1
+favorite 1
+Republican 1
+
+the City Departments
+several 1
+uncompleted 1
+
+Massachusetts
+Corinthian 1
+high 1
+long 1
+wide 1
+white 1
+
+The United States Sub-Treasury
+east 1
+old 1
+which 1
+first 1
+
+Doric
+white 2
+Doric 2
+noble 2
+its 1
+high 1
+broad 1
+which 1
+
+UNITED
+Full 11
+GREAT 2
+NOBLE 2
+MANY 2
+ilASONIC 1
+FRONT 1
+^A 1
+TWEED 1
+past 1
+vast 1
+
+Gatling
+strong 1
+larger 1
+destructive 1
+im- 1
+
+Adjoining
+which 2
+large 1
+
+Hanover
+irregular 2
+more 1
+east 1
+south 1
+stately 1
+
+Port
+long 1
+foreign 1
+His 1
+following 1
+first 1
+American 1
+all 1
+Full 1
+second 1
+personal 1
+
+Laight
+
+reading-
+free 1
+reading- 1
+
+Cooper Union
+triangular 1
+Fourth 1
+17th 1
+square 1
+entire 1
+8th 1
+9th 1
+great 1
+
+9th
+59th 20
+which 8
+29th 6
+its 4
+northern 4
+9th 3
+entire 3
+19th 3
+his 3
+magnificent 2
+
+YOUNG
+YOUNG 6
+GREAT 3
+GRAND 2
+POLITICAL 2
+AVERAGE 2
+her 2
+-STREET 1
+THEIR 1
+SOUTH 1
+OLD 1
+
+Belleville
+dark 1
+French 1
+
+Haven
+western 1
+other 1
+adjacent 1
+
+Albany
+western 1
+other 1
+
+Harlem River
+which 6
+its 3
+59th 3
+northern 2
+unbroken 2
+main 1
+improve- 1
+second 1
+w^hich 1
+long 1
+
+Thousand
+our 2
+their 2
+great 1
+chief 1
+brief 1
+its 1
+which 1
+suburban 1
+cheap 1
+happy 1
+
+one
+which 179
+his 169
+their 158
+its 84
+other 71
+that 40
+new 37
+great 36
+her 36
+old 35
+
+the United States Sub-Treasury
+
+Mammon
+sweet 1
+old 1
+clear 1
+strong 1
+busy 1
+great 1
+
+assistino- i\\^^
+assistino- 1
+i\\^^ 1
+human 1
+
+Clearing
+its 4
+their 2
+daily 2
+largest 2
+previous 1
+same 1
+connected 1
+total 1
+certain 1
+large 1
+
+their
+their 879
+which 113
+his 53
+other 45
+own 41
+that 41
+great 36
+its 31
+such 29
+many 27
+
+Washins^ton
+special 1
+their 1
+
+BETHEL
+LONG 2
+
+Pavonia
+other 2
+up 1
+
+Weehawken
+other 2
+up 1
+unfinished 1
+fine 1
+picturesque 1
+
+Cunard
+familiar 1
+other 1
+whose 1
+great 1
+which 1
+rich 1
+off 1
+
+Florida
+various 1
+other 1
+foreign 1
+domestic 1
+its 1
+
+New Orleans
+various 1
+other 1
+foreign 1
+domestic 1
+
+Texas
+various 1
+other 1
+foreign 1
+domestic 1
+
+Mexico
+various 1
+other 1
+foreign 1
+domestic 1
+
+Cuba
+various 1
+other 1
+foreign 1
+domestic 1
+
+Bethel
+their 2
+neat 1
+little 1
+several 1
+unused 1
+able 1
+
+California
+great 1
+small 1
+that 1
+
+Long Island City
+several 1
+
+Independence
+his 3
+early 1
+Royalist 1
+British 1
+military 1
+present 1
+14th 1
+
+West-
+
+Richmond
+worth 1
+which 1
+bold 1
+national 1
+tall 1
+
+Metropolitan
+which 6
+its 6
+59th 3
+northern 2
+their 2
+other 2
+American 2
+next 1
+loth 1
+55th 1
+
+^6000
+annual 1
+embroid- 1
+other 1
+
+POLICE
+MUNICIPAL 5
+Full 3
+FIRST 3
+DEPARTMENTS— 2
+SIXTH 2
+BUSY 2
+OLD 2
+REGULAR 2
+SINGULAR 2
+DRUNK 2
+
+tele-
+tele- 2
+national 1
+certain 1
+her 1
+foreign 1
+several 1
+Iw('ry 1
+all 1
+automatic 1
+various 1
+
+Sullivan
+fearful 1
+sure 1
+flickering 1
+ruddy 1
+red 1
+
+Madison Square
+all 2
+smaller 2
+noble 1
+Fifth 1
+western 1
+its 1
+59th 1
+which 1
+inter- 1
+proportionate 1
+
+Captain
+his 4
+their 3
+good 2
+worse 2
+interested 1
+several 1
+responsible 1
+proper 1
+correct 1
+general 1
+
+Church
+which 11
+its 8
+his 7
+old 6
+west 5
+handsome 5
+their 4
+fine 4
+loth 4
+great 3
+
+Cedar
+last 1
+broken 1
+
+Calcutta
+Such 1
+full 1
+vile 1
+
+Sergeant
+his 10
+such 3
+which 2
+other 2
+same 2
+that 2
+their 2
+your 2
+her 2
+much 2
+
+Bridgeport
+curious 1
+your 1
+
+Morrlsania
+their 2
+New 1
+that 1
+
+North New 
+York
+their 2
+New 1
+that 1
+
+Mott Haven
+adjacent 1
+
+Staten 
+Island
+proper 1
+graceful 1
+small 1
+which 1
+adjacent 1
+
+Centre
+principal 2
+massive 2
+Egyptian 2
+official 1
+popular 1
+Eg}'ptian 1
+broad 1
+which 1
+gloomy 1
+immense 1
+
+Leonard
+old 1
+its 1
+peculiar 1
+low 1
+finest 1
+private 1
+imposing 1
+pure 1
+white 1
+official 1
+
+Warden
+sufficient 1
+poor 1
+such 1
+neces- 1
+sary 1
+excellent 1
+due 1
+many 1
+Previous 1
+common 1
+
+The United States
+east 1
+old 1
+which 1
+first 1
+their 1
+certain 1
+such 1
+
+Ludlow
+which 2
+his 2
+narrow 1
+gloomy 1
+unfortunate 1
+such 1
+unhappy 1
+high 1
+depu- 1
+many 1
+
+ascer-
+ascer- 1
+several 1
+above 1
+
+Battery Park
+which 3
+lower 2
+small 1
+14th 1
+.59th 1
+first 1
+extreme 1
+most 1
+its 1
+lish 1
+
+Castle Garden
+which 3
+its 2
+famous 2
+massive 1
+ex- 1
+further 1
+severe 1
+old 1
+handsome 1
+northern 1
+
+Hudson
+its 12
+which 7
+western 4
+their 4
+latter 3
+main 2
+Its 2
+extreme 2
+beautiful 2
+lower 2
+
+the County 
+Buildings
+
+McDougal
+
+Lafayette
+very 1
+few 1
+distant 1
+southern 1
+14th 1
+grand 1
+his 1
+last 1
+
+the Union Place Hotel
+east 1
+14th 1
+next 1
+which 1
+opposite 1
+superb 1
+mestic 1
+
+RIVERSIDE
+FINE 2
+ITS 2
+DELIGHTFUL 2
+northwestern 1
+
+East Broadway
+quiet 1
+dingy 1
+which 1
+old 1
+
+Holy Moshish
+Holy 1
+
+THE PARK — THE
+TO 1
+LOWER 1
+THEIR 1
+WORTHLESS 1
+
+BELVIDERE
+
+the City Government
+which 2
+their 1
+magnificent 1
+admira- 1
+whole 1
+especial 1
+
+59th
+59th 20
+which 6
+northern 4
+its 3
+southern 2
+eastern 2
+loth 2
+iioth 2
+western 2
+immediate 1
+
+Fairmount Park
+largest 1
+great 1
+
+Vienna
+our 3
+finest 2
+fine 1
+grand 1
+gay 1
+beautiful 1
+largest 1
+great 1
+
+Phoenix
+largest 1
+great 1
+
+Dublin
+largest 1
+great 1
+
+THE PARK
+LOWER 2
+THEIR 2
+WORTHLESS 2
+GRAND 1
+CHARACTERS— 1
+TO 1
+beautiful 1
+short 1
+west 1
+noble 1
+
+Green
+his 8
+which 6
+second 4
+various 2
+similar 2
+steady 1
+human 1
+weary 1
+jaded 1
+anxious 1
+
+S. N. Y.
+east 1
+their 1
+west 1
+
+MDCCCLXiii
+west 1
+
+the Park
+which 15
+its 9
+east 6
+old 4
+small 4
+beautiful 3
+handsome 3
+little 3
+their 3
+fine 3
+
+THE LAKE FROM
+^THE 1
+FANCY 1
+Full 1
+its 1
+northern 1
+cious 1
+handsome 1
+ornamental 1
+
+Bethesda
+which 2
+4th 2
+large 1
+beautiful 1
+fifth 1
+certain 1
+
+Fountain
+large 1
+which 1
+beautiful 1
+
+Munich
+exe- 1
+
+Temperance
+left 1
+which 1
+upper 1
+emblematic 1
+other 1
+
+the Upper Lake
+accommoda- 1
+which 1
+their 1
+
+West Drives
+charming 1
+old 1
+
+Belvedere
+open 1
+which 1
+ornamental 1
+high 1
+entire 1
+Old 1
+
+79th
+86th 2
+Fifth 1
+former 1
+79th 1
+latter 1
+entire 1
+96th 1
+transverse 1
+85th 1
+97th 1
+
+Mount St.
+59th 1
+Its 1
+principal 1
+
+Harlem Meer
+east 1
+which 1
+northeast 1
+small 1
+west 1
+old 1
+extreme 1
+northern 1
+iioth 1
+
+Etruscan
+east 1
+
+Dresden
+Japanese 2
+numerous 1
+innumerable 1
+such 1
+Chinese 1
+Egyptian 1
+rare 1
+old 1
+their 1
+superb 1
+
+Sevres
+Japanese 2
+numerous 1
+innumerable 1
+such 1
+Chinese 1
+Egyptian 1
+rare 1
+old 1
+their 1
+superb 1
+
+Cesnola
+east 1
+which 1
+left 1
+immense 1
+precious 1
+iridescent 1
+large 1
+ancient 1
+remarkable 1
+valuable 1
+
+Obelisk
+short 1
+massive 1
+solid 1
+much 1
+
+Egypt
+Egyptian 4
+its 3
+Japanese 2
+old 2
+his 2
+broad 1
+which 1
+massive 1
+gloomy 1
+immense 1
+
+Lieutenant-Comman-
+remarkable 1
+
+Syene
+single 1
+its 1
+
+Upper Egypt
+single 1
+its 1
+
+Lower
+which 7
+broad 2
+their 2
+present 2
+heavy 1
+vertical 1
+Our 1
+eastern 1
+our 1
+calmer 1
+
+India
+Indian 6
+little 2
+various 2
+which 2
+common 1
+natural 1
+aboriginal 1
+our 1
+expressive 1
+long 1
+
+Heliopolis
+his 2
+great 1
+second 1
+new 1
+full 1
+own 1
+pompous 1
+central 1
+her 1
+
+Alexandria
+his 2
+its 2
+great 1
+second 1
+new 1
+full 1
+own 1
+pompous 1
+central 1
+her 1
+
+Tliames
+
+466
+lower 1
+her 1
+first 1
+
+Somme
+upright 1
+Swiss 1
+several 1
+minor 1
+
+Denmark
+upright 1
+Swiss 1
+several 1
+minor 1
+
+New York State
+upper 1
+third 1
+geologic 1
+other 1
+speci- 1
+same 1
+original 1
+
+MARRIED MEN
+FASHIONABLE 2
+AVERAGE 2
+FIRST 1
+LOST 1
+
+WICKEDEST 
+WOMAN
+AVERAGE 2
+LOST 1
+FASHIONABLE 1
+
+SHAME
+FASHIONABLE 2
+AVERAGE 2
+FRENCH 1
+FIRST 1
+ADVANCE 1
+BUSY 1
+SIXTH 1
+SHAMEFUL 1
+LOST 1
+
+Greene
+similar 2
+southern 1
+finest 1
+second 1
+lost 1
+such 1
+unfit 1
+follow- 1
+young 1
+successful 1
+
+reach-
+reach- 1
+which 1
+impossible 1
+angry 1
+her 1
+
+West Twenty
+young 1
+seventh 1
+his 1
+
+Thirtieth
+her 3
+elegant 1
+beautiful 1
+
+Haymarket
+
+asso-
+his 3
+asso- 1
+ignorant 1
+unrefined 1
+unworthy 1
+honest 1
+virtuous 1
+whatever 1
+her 1
+other 1
+
+so-
+their 5
+his 3
+so- 2
+her 2
+other 2
+open 2
+damned 1
+mercial 1
+same 1
+several 1
+
+Vermont
+which 1
+29th 1
+fine 1
+Romanesque 1
+tall 1
+
+tlie
+their 5
+his 4
+its 2
+present 2
+long 1
+stately 1
+steady 1
+which 1
+busiest 1
+ma- 1
+
+the City of New York
+military 1
+
+rescu-
+terrible 1
+disastrous 1
+serious 1
+
+Lud-
+Delinquent 1
+low 1
+
+New Brunswick
+oldest 1
+late 1
+
+Drew
+his 2
+early 1
+late 1
+
+Robbery
+its 1
+various 1
+that 1
+
+Gypsey
+
+AiUiunn
+married 2
+few 1
+random 1
+all 1
+
+Po7icess
+private 1
+a. 1
+her 1
+
+an
+their 786
+which 712
+his 620
+its 403
+other 256
+great 207
+that 187
+many 173
+her 162
+large 158
+
+Smithville
+
+Creedmoor
+little 1
+Frequent 1
+large 1
+Creedmoor 1
+several 1
+
+BROOKLYN
+Full 2
+GREAT 2
+^IVER 1
+MUCH 1
+■^BROOKLYN 1
+
+the City Hall Station
+
+Sands
+
+the Jersey City
+
+Pier No
+straight 1
+
+Httle
+poor 1
+many 1
+other 1
+Httle 1
+lower 1
+upper 1
+social 1
+entire 1
+
+New York City
+different 1
+their 1
+
+Nev/ York
+its 2
+Several 1
+great 1
+complete 1
+
+Arnold
+19th 1
+great 1
+dry 1
+Domestic 1
+last 1
+principal 1
+
+Baltimore
+its 1
+annual 1
+which 1
+other 1
+separate 1
+comfortable 1
+
+Va.
+
+Hartford
+
+Conn.
+
+Taunton
+
+Elmira
+
+NEW M-AYS
+FIRST 1
+
+Thalia
+classic 1
+
+Bijou Opera House
+
+Wallack
+its 4
+which 3
+favorite 2
+new 2
+beautiful 2
+northeast 1
+13th 1
+many 1
+great 1
+few 1
+
+Cincinnati
+massive 1
+white 1
+late 1
+
+Yorkers
+old 4
+its 3
+higher 2
+better 2
+larger 2
+same 1
+various 1
+ter 1
+holy 1
+grand 1
+
+Baxter
+high 1
+numerous 1
+small 1
+which 1
+attractive 1
+bad 1
+magnificent 1
+its 1
+humble 1
+more 1
+
+Negro
+popular 1
+
+the Cooper Union
+great 1
+
+Bologna
+dark 1
+back- 1
+hung 1
+unused 1
+odd 1
+odder 1
+musical 1
+various 1
+raw 1
+great 1
+
+Newark
+Special 1
+public 1
+short 1
+which 1
+
+Printino--
+all 1
+leading 1
+large 1
+triangular 1
+east 1
+
+the City Hall Park
+which 2
+southern 2
+our 2
+open 2
+triangular 2
+posite 1
+great 1
+sepa- 1
+wide 1
+few 1
+
+execu-
+execu- 1
+all 1
+great 1
+which 1
+American 1
+
+Europe
+European 13
+which 12
+great 10
+their 7
+his 6
+its 5
+other 3
+that 3
+various 3
+all 2
+
+^600,000
+lofty 1
+illumi- 1
+nated 1
+which 1
+great 1
+
+Greeley
+recent 1
+enormous 1
+fash- 1
+ionable 1
+eastern 1
+least 1
+his 1
+power- 1
+ful 1
+Republican 1
+
+Printing-House Square
+loftiest 1
+handsome 1
+largest 1
+
+any city
+its 2
+public 1
+inefficient 1
+cosmopolitan 1
+poor 1
+handsome 1
+largest 1
+cultivated 1
+best 1
+permanent 1
+
+Fires
+annual 1
+G03 1
+which 1
+
+Manchester
+
+New Hampshire
+
+extincruishino-
+larger 1
+
+and
+their 706
+which 623
+his 542
+its 365
+other 229
+great 190
+that 160
+her 147
+large 134
+many 129
+
+St. Patrick's
+new 2
+his 1
+preliminary 1
+parochial 1
+which 1
+grandest 1
+free 1
+
+Cathedral
+new 4
+which 4
+doubtful 1
+upward 1
+past 1
+magnificent 1
+his 1
+preliminary 1
+parochial 1
+grandest 1
+
+PRESBYTERIANS
+ROMAN 1
+
+NEW YORK DES-
+
+Gothic
+Gothic 11
+handsome 4
+red 3
+pure 3
+first 2
+thirteenth 2
+white 2
+which 2
+yellow 2
+beautiful 2
+
+St. Thomas's
+fashionable 2
+its 2
+53d 1
+magnificent 1
+
+Transfiguration
+Episcopal 1
+29th 1
+east 1
+
+Atonement
+popular 2
+old 1
+his 1
+
+D.D.
+more 2
+shrewd 1
+same 1
+his 1
+similar 1
+
+Presbyterians
+their 1
+first 1
+author- 1
+
+Catholic
+Roman 6
+Catholic 4
+its 3
+new 2
+other 2
+Protestant 2
+their 2
+doubtful 1
+which 1
+upward 1
+
+St. Stephen's
+fashionable 1
+beautiful 1
+28th 1
+29th 1
+
+Maine
+first 1
+pure 1
+similar 1
+thirteenth 1
+fourteenth 1
+
+Cologne
+free 1
+
+Tennessee
+white 1
+
+Chartres
+rious 1
+
+Bowery "Free
+many 1
+best 1
+popular 1
+
+Eiofhth
+straight 1
+
+East Side
+her 2
+immense 1
+other 1
+dainty 1
+quick 1
+
+Fatherland
+several 1
+German 1
+which 1
+great 1
+their 1
+
+New Englanders
+popular 1
+Western 1
+profitable 1
+
+the United 
+
+
+
+THE
+largest 1
+
+Brevoort
+exclusive 1
+English 1
+other 1
+prominent 1
+
+Catharine, Union
+principal 1
+
+NEW YORK'S
+
+Westchester
+which 4
+small 2
+59th 1
+white 1
+northern 1
+ad- 1
+its 1
+
+Put-
+small 2
+
+Dutchess
+small 2
+
+Carmansville
+elevated 1
+
+Croton
+which 7
+its 3
+highest 1
+determined 1
+4th 1
+massive 1
+left 1
+lofty 1
+solid 1
+south- 1
+
